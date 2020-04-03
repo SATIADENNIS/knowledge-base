@@ -370,6 +370,10 @@ li {
     font-size: 17px;
     margin-left: 5px;
   }
+  .mew___components_bottom-helpers .block-item .content .community-links {
+    display: flex;
+    flex-wrap: wrap;
+  }
   .mew___components_bottom-helpers .block-item .content .community-links a {
     margin-right: 15px;
   }
