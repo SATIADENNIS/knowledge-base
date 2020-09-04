@@ -8,7 +8,7 @@
     </url>
 
     <url>
-        <loc>https://kb.myetherwallet.com/ru/tokens/token-already-exists/</loc>
+        <loc>https://kb.myetherwallet.com/zh/getting-started/glossary-of-common-terms/</loc>
         <lastmod>2020-08-28T18:50:52.828Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -16,15 +16,7 @@
     </url>
 
     <url>
-        <loc>https://kb.myetherwallet.com/ru/transactions/how-to-send-a-transaction/</loc>
-        <lastmod>2020-08-28T18:50:52.828Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://kb.myetherwallet.com/ru/transactions/transaction-not-found-or-pending-forever/</loc>
+        <loc>https://kb.myetherwallet.com/zh/getting-started/how-to-access-your-wallet/</loc>
         <lastmod>2020-08-28T18:50:52.828Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -57,62 +49,6 @@
 
     <url>
         <loc>https://kb.myetherwallet.com/zh/dapps/using_makerdao/</loc>
-        <lastmod>2020-08-28T18:50:52.828Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://kb.myetherwallet.com/ru/transactions/checking-or-replacing-a-tx-after-sending/</loc>
-        <lastmod>2020-08-28T18:50:52.828Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://kb.myetherwallet.com/ru/transactions/what-is-gas/</loc>
-        <lastmod>2020-08-28T18:50:52.828Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://kb.myetherwallet.com/zh/mewconnect/mewconnect-change-password/</loc>
-        <lastmod>2020-08-28T18:50:52.828Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://kb.myetherwallet.com/zh/mewconnect/mewconnect-upgrade-mewwallet/</loc>
-        <lastmod>2020-08-28T18:50:52.828Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://kb.myetherwallet.com/zh/mewconnect/mewconnect-secure-enclave/</loc>
-        <lastmod>2020-08-28T18:50:52.828Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://kb.myetherwallet.com/zh/mewconnect/mewwallet-vs-mewconnect/</loc>
-        <lastmod>2020-08-28T18:50:52.828Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://kb.myetherwallet.com/zh/mewconnect/mewconnect-user-guide/</loc>
         <lastmod>2020-08-28T18:50:52.828Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -160,22 +96,6 @@
     </url>
 
     <url>
-        <loc>https://kb.myetherwallet.com/zh/hardware-wallets/using-ledger-hw-with-android-device/</loc>
-        <lastmod>2020-08-28T18:50:52.828Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://kb.myetherwallet.com/zh/getting-started/glossary-of-common-terms/</loc>
-        <lastmod>2020-08-28T18:50:52.828Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
         <loc>https://kb.myetherwallet.com/zh/hardware-wallets/using-keepkey-with-mew/</loc>
         <lastmod>2020-08-28T18:50:52.828Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -184,7 +104,7 @@
     </url>
 
     <url>
-        <loc>https://kb.myetherwallet.com/zh/getting-started/how-to-access-your-wallet/</loc>
+        <loc>https://kb.myetherwallet.com/zh/hardware-wallets/using-ledger-hw-with-android-device/</loc>
         <lastmod>2020-08-28T18:50:52.828Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -216,7 +136,7 @@
     </url>
 
     <url>
-        <loc>https://kb.myetherwallet.com/zh/mewwallet/mewwallet-swap/</loc>
+        <loc>https://kb.myetherwallet.com/zh/mewconnect/mewconnect-change-password/</loc>
         <lastmod>2020-08-28T18:50:52.828Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -224,7 +144,7 @@
     </url>
 
     <url>
-        <loc>https://kb.myetherwallet.com/zh/mewwallet/mewwallet-vs-mewconnect/</loc>
+        <loc>https://kb.myetherwallet.com/zh/mewconnect/mewconnect-secure-enclave/</loc>
         <lastmod>2020-08-28T18:50:52.828Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -232,7 +152,23 @@
     </url>
 
     <url>
-        <loc>https://kb.myetherwallet.com/zh/mewwallet/mewwallet-user-guide/</loc>
+        <loc>https://kb.myetherwallet.com/zh/mewconnect/mewconnect-upgrade-mewwallet/</loc>
+        <lastmod>2020-08-28T18:50:52.828Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://kb.myetherwallet.com/zh/mewconnect/mewconnect-user-guide/</loc>
+        <lastmod>2020-08-28T18:50:52.828Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://kb.myetherwallet.com/zh/mewconnect/mewwallet-vs-mewconnect/</loc>
         <lastmod>2020-08-28T18:50:52.828Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -265,6 +201,30 @@
 
     <url>
         <loc>https://kb.myetherwallet.com/zh/offline/using-mew-offline/</loc>
+        <lastmod>2020-08-28T18:50:52.828Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://kb.myetherwallet.com/zh/mewwallet/mewwallet-swap/</loc>
+        <lastmod>2020-08-28T18:50:52.828Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://kb.myetherwallet.com/zh/mewwallet/mewwallet-user-guide/</loc>
+        <lastmod>2020-08-28T18:50:52.828Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://kb.myetherwallet.com/zh/mewwallet/mewwallet-vs-mewconnect/</loc>
         <lastmod>2020-08-28T18:50:52.828Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -336,6 +296,14 @@
     </url>
 
     <url>
+        <loc>https://kb.myetherwallet.com/zh/transactions/checking-or-replacing-a-tx-after-sending/</loc>
+        <lastmod>2020-08-28T18:50:52.828Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
         <loc>https://kb.myetherwallet.com/zh/transactions/how-to-send-a-transaction/</loc>
         <lastmod>2020-08-28T18:50:52.828Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -345,14 +313,6 @@
 
     <url>
         <loc>https://kb.myetherwallet.com/zh/transactions/transaction-not-found-or-pending-forever/</loc>
-        <lastmod>2020-08-28T18:50:52.828Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://kb.myetherwallet.com/zh/transactions/checking-or-replacing-a-tx-after-sending/</loc>
         <lastmod>2020-08-28T18:50:52.828Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -376,8 +336,40 @@
     </url>
 
     <url>
-        <loc>https://kb.myetherwallet.com/ko/tokens/nft-manager/</loc>
-        <lastmod>2020-08-28T18:50:52.824Z</lastmod>
+        <loc>https://kb.myetherwallet.com/ru/tokens/token-already-exists/</loc>
+        <lastmod>2020-08-28T18:50:52.828Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://kb.myetherwallet.com/ru/transactions/checking-or-replacing-a-tx-after-sending/</loc>
+        <lastmod>2020-08-28T18:50:52.828Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://kb.myetherwallet.com/ru/transactions/how-to-send-a-transaction/</loc>
+        <lastmod>2020-08-28T18:50:52.828Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://kb.myetherwallet.com/ru/transactions/transaction-not-found-or-pending-forever/</loc>
+        <lastmod>2020-08-28T18:50:52.828Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://kb.myetherwallet.com/ru/transactions/what-is-gas/</loc>
+        <lastmod>2020-08-28T18:50:52.828Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
@@ -392,7 +384,23 @@
     </url>
 
     <url>
+        <loc>https://kb.myetherwallet.com/ko/tokens/nft-manager/</loc>
+        <lastmod>2020-08-28T18:50:52.824Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
         <loc>https://kb.myetherwallet.com/ko/tokens/token-already-exists/</loc>
+        <lastmod>2020-08-28T18:50:52.824Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://kb.myetherwallet.com/ko/transactions/checking-or-replacing-a-tx-after-sending/</loc>
         <lastmod>2020-08-28T18:50:52.824Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -424,6 +432,14 @@
     </url>
 
     <url>
+        <loc>https://kb.myetherwallet.com/ru/dapps/aave/</loc>
+        <lastmod>2020-08-28T18:50:52.824Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
         <loc>https://kb.myetherwallet.com/ru/dapps/ambrpay/</loc>
         <lastmod>2020-08-28T18:50:52.824Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -433,14 +449,6 @@
 
     <url>
         <loc>https://kb.myetherwallet.com/ru/dapps/ipfs_guide/</loc>
-        <lastmod>2020-08-28T18:50:52.824Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://kb.myetherwallet.com/ko/transactions/checking-or-replacing-a-tx-after-sending/</loc>
         <lastmod>2020-08-28T18:50:52.824Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -464,47 +472,7 @@
     </url>
 
     <url>
-        <loc>https://kb.myetherwallet.com/ru/dapps/aave/</loc>
-        <lastmod>2020-08-28T18:50:52.824Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
         <loc>https://kb.myetherwallet.com/ru/dapps/using_makerdao/</loc>
-        <lastmod>2020-08-28T18:50:52.824Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://kb.myetherwallet.com/ru/mewwallet/mewwallet-swap/</loc>
-        <lastmod>2020-08-28T18:50:52.824Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://kb.myetherwallet.com/ru/getting-started/how-to-access-your-wallet/</loc>
-        <lastmod>2020-08-28T18:50:52.824Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://kb.myetherwallet.com/ru/mewwallet/mewwallet-vs-mewconnect/</loc>
-        <lastmod>2020-08-28T18:50:52.824Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://kb.myetherwallet.com/ru/mewwallet/mewwallet-user-guide/</loc>
         <lastmod>2020-08-28T18:50:52.824Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -520,7 +488,7 @@
     </url>
 
     <url>
-        <loc>https://kb.myetherwallet.com/ru/hardware-wallets/using-hardware-with-custom-path/</loc>
+        <loc>https://kb.myetherwallet.com/ru/getting-started/how-to-access-your-wallet/</loc>
         <lastmod>2020-08-28T18:50:52.824Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -544,23 +512,15 @@
     </url>
 
     <url>
-        <loc>https://kb.myetherwallet.com/ru/hardware-wallets/using-ledger-hw-with-android-device/</loc>
-        <lastmod>2020-08-28T18:50:52.824Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://kb.myetherwallet.com/ru/hardware-wallets/using-secalot-with-mew/</loc>
-        <lastmod>2020-08-28T18:50:52.824Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
         <loc>https://kb.myetherwallet.com/ru/hardware-wallets/using-coolwallet-with-mew/</loc>
+        <lastmod>2020-08-28T18:50:52.824Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://kb.myetherwallet.com/ru/hardware-wallets/using-hardware-with-custom-path/</loc>
         <lastmod>2020-08-28T18:50:52.824Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -576,6 +536,14 @@
     </url>
 
     <url>
+        <loc>https://kb.myetherwallet.com/ru/hardware-wallets/using-ledger-hw-with-android-device/</loc>
+        <lastmod>2020-08-28T18:50:52.824Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
         <loc>https://kb.myetherwallet.com/ru/hardware-wallets/using-ledger-with-mew/</loc>
         <lastmod>2020-08-28T18:50:52.824Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -584,7 +552,39 @@
     </url>
 
     <url>
-        <loc>https://kb.myetherwallet.com/ru/networks-and-nodes/how-to-change-networks/</loc>
+        <loc>https://kb.myetherwallet.com/ru/hardware-wallets/using-secalot-with-mew/</loc>
+        <lastmod>2020-08-28T18:50:52.824Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://kb.myetherwallet.com/ru/hardware-wallets/using-trezor-with-mew/</loc>
+        <lastmod>2020-08-28T18:50:52.824Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://kb.myetherwallet.com/ru/mewwallet/mewwallet-swap/</loc>
+        <lastmod>2020-08-28T18:50:52.824Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://kb.myetherwallet.com/ru/mewwallet/mewwallet-user-guide/</loc>
+        <lastmod>2020-08-28T18:50:52.824Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://kb.myetherwallet.com/ru/mewwallet/mewwallet-vs-mewconnect/</loc>
         <lastmod>2020-08-28T18:50:52.824Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -608,7 +608,7 @@
     </url>
 
     <url>
-        <loc>https://kb.myetherwallet.com/ru/mewconnect/mewconnect-user-guide/</loc>
+        <loc>https://kb.myetherwallet.com/ru/mewconnect/mewconnect-upgrade-mewwallet/</loc>
         <lastmod>2020-08-28T18:50:52.824Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -624,7 +624,7 @@
     </url>
 
     <url>
-        <loc>https://kb.myetherwallet.com/ru/hardware-wallets/using-trezor-with-mew/</loc>
+        <loc>https://kb.myetherwallet.com/ru/mewconnect/mewconnect-user-guide/</loc>
         <lastmod>2020-08-28T18:50:52.824Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -632,7 +632,7 @@
     </url>
 
     <url>
-        <loc>https://kb.myetherwallet.com/ru/mewconnect/mewconnect-upgrade-mewwallet/</loc>
+        <loc>https://kb.myetherwallet.com/ru/networks-and-nodes/how-to-change-networks/</loc>
         <lastmod>2020-08-28T18:50:52.824Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -641,6 +641,30 @@
 
     <url>
         <loc>https://kb.myetherwallet.com/ru/offline/offline-mew-looks-weird/</loc>
+        <lastmod>2020-08-28T18:50:52.824Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://kb.myetherwallet.com/ru/offline/using-mew-offline/</loc>
+        <lastmod>2020-08-28T18:50:52.824Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://kb.myetherwallet.com/ru/tokens/how-to-add-custom-token/</loc>
+        <lastmod>2020-08-28T18:50:52.824Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://kb.myetherwallet.com/ru/tokens/nft-manager/</loc>
         <lastmod>2020-08-28T18:50:52.824Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -688,24 +712,24 @@
     </url>
 
     <url>
-        <loc>https://kb.myetherwallet.com/ru/tokens/nft-manager/</loc>
-        <lastmod>2020-08-28T18:50:52.824Z</lastmod>
+        <loc>https://kb.myetherwallet.com/ja/mewwallet/mewwallet-swap/</loc>
+        <lastmod>2020-08-28T18:50:52.820Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
     </url>
 
     <url>
-        <loc>https://kb.myetherwallet.com/ru/offline/using-mew-offline/</loc>
-        <lastmod>2020-08-28T18:50:52.824Z</lastmod>
+        <loc>https://kb.myetherwallet.com/ja/mewwallet/mewwallet-user-guide/</loc>
+        <lastmod>2020-08-28T18:50:52.820Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
     </url>
 
     <url>
-        <loc>https://kb.myetherwallet.com/ru/tokens/how-to-add-custom-token/</loc>
-        <lastmod>2020-08-28T18:50:52.824Z</lastmod>
+        <loc>https://kb.myetherwallet.com/ja/mewwallet/mewwallet-vs-mewconnect/</loc>
+        <lastmod>2020-08-28T18:50:52.820Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
@@ -736,14 +760,6 @@
     </url>
 
     <url>
-        <loc>https://kb.myetherwallet.com/ja/mewconnect/mewwallet-vs-mewconnect/</loc>
-        <lastmod>2020-08-28T18:50:52.820Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
         <loc>https://kb.myetherwallet.com/ja/mewconnect/mewconnect-user-guide/</loc>
         <lastmod>2020-08-28T18:50:52.820Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -752,7 +768,7 @@
     </url>
 
     <url>
-        <loc>https://kb.myetherwallet.com/ja/mewwallet/mewwallet-swap/</loc>
+        <loc>https://kb.myetherwallet.com/ja/mewconnect/mewwallet-vs-mewconnect/</loc>
         <lastmod>2020-08-28T18:50:52.820Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -760,7 +776,7 @@
     </url>
 
     <url>
-        <loc>https://kb.myetherwallet.com/ja/mewwallet/mewwallet-vs-mewconnect/</loc>
+        <loc>https://kb.myetherwallet.com/ja/hardware-wallets/using-secalot-with-mew/</loc>
         <lastmod>2020-08-28T18:50:52.820Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -784,14 +800,6 @@
     </url>
 
     <url>
-        <loc>https://kb.myetherwallet.com/ja/hardware-wallets/using-secalot-with-mew/</loc>
-        <lastmod>2020-08-28T18:50:52.820Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
         <loc>https://kb.myetherwallet.com/ja/offline/offline-mew-looks-weird/</loc>
         <lastmod>2020-08-28T18:50:52.820Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -801,14 +809,6 @@
 
     <url>
         <loc>https://kb.myetherwallet.com/ja/offline/using-mew-offline/</loc>
-        <lastmod>2020-08-28T18:50:52.820Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://kb.myetherwallet.com/ja/mewwallet/mewwallet-user-guide/</loc>
         <lastmod>2020-08-28T18:50:52.820Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -856,30 +856,6 @@
     </url>
 
     <url>
-        <loc>https://kb.myetherwallet.com/ja/tokens/nft-manager/</loc>
-        <lastmod>2020-08-28T18:50:52.820Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://kb.myetherwallet.com/ja/tokens/how-to-add-custom-token/</loc>
-        <lastmod>2020-08-28T18:50:52.820Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://kb.myetherwallet.com/ja/tokens/token-already-exists/</loc>
-        <lastmod>2020-08-28T18:50:52.820Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
         <loc>https://kb.myetherwallet.com/ko/dapps/ipfs_guide/</loc>
         <lastmod>2020-08-28T18:50:52.820Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -896,6 +872,14 @@
     </url>
 
     <url>
+        <loc>https://kb.myetherwallet.com/ko/dapps/using_makerdao/</loc>
+        <lastmod>2020-08-28T18:50:52.820Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
         <loc>https://kb.myetherwallet.com/ko/dapps/unstoppabledomains/</loc>
         <lastmod>2020-08-28T18:50:52.820Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -904,7 +888,7 @@
     </url>
 
     <url>
-        <loc>https://kb.myetherwallet.com/ko/dapps/using_makerdao/</loc>
+        <loc>https://kb.myetherwallet.com/ja/transactions/checking-or-replacing-a-tx-after-sending/</loc>
         <lastmod>2020-08-28T18:50:52.820Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -936,7 +920,7 @@
     </url>
 
     <url>
-        <loc>https://kb.myetherwallet.com/ko/mewwallet/mewwallet-swap/</loc>
+        <loc>https://kb.myetherwallet.com/ja/tokens/how-to-add-custom-token/</loc>
         <lastmod>2020-08-28T18:50:52.820Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -944,7 +928,7 @@
     </url>
 
     <url>
-        <loc>https://kb.myetherwallet.com/ko/mewwallet/mewwallet-vs-mewconnect/</loc>
+        <loc>https://kb.myetherwallet.com/ja/tokens/nft-manager/</loc>
         <lastmod>2020-08-28T18:50:52.820Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -952,7 +936,23 @@
     </url>
 
     <url>
-        <loc>https://kb.myetherwallet.com/ja/transactions/checking-or-replacing-a-tx-after-sending/</loc>
+        <loc>https://kb.myetherwallet.com/ja/tokens/token-already-exists/</loc>
+        <lastmod>2020-08-28T18:50:52.820Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://kb.myetherwallet.com/ko/getting-started/how-to-access-your-wallet/</loc>
+        <lastmod>2020-08-28T18:50:52.820Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://kb.myetherwallet.com/ko/getting-started/glossary-of-common-terms/</loc>
         <lastmod>2020-08-28T18:50:52.820Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -984,30 +984,6 @@
     </url>
 
     <url>
-        <loc>https://kb.myetherwallet.com/ko/getting-started/how-to-access-your-wallet/</loc>
-        <lastmod>2020-08-28T18:50:52.820Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://kb.myetherwallet.com/ko/getting-started/glossary-of-common-terms/</loc>
-        <lastmod>2020-08-28T18:50:52.820Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://kb.myetherwallet.com/ko/hardware-wallets/using-ledger-hw-with-android-device/</loc>
-        <lastmod>2020-08-28T18:50:52.820Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
         <loc>https://kb.myetherwallet.com/ko/hardware-wallets/using-hardware-with-custom-path/</loc>
         <lastmod>2020-08-28T18:50:52.820Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -1017,6 +993,14 @@
 
     <url>
         <loc>https://kb.myetherwallet.com/ko/hardware-wallets/using-keepkey-with-mew/</loc>
+        <lastmod>2020-08-28T18:50:52.820Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://kb.myetherwallet.com/ko/hardware-wallets/using-ledger-hw-with-android-device/</loc>
         <lastmod>2020-08-28T18:50:52.820Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -1048,6 +1032,30 @@
     </url>
 
     <url>
+        <loc>https://kb.myetherwallet.com/ko/mewwallet/mewwallet-swap/</loc>
+        <lastmod>2020-08-28T18:50:52.820Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://kb.myetherwallet.com/ko/mewwallet/mewwallet-user-guide/</loc>
+        <lastmod>2020-08-28T18:50:52.820Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://kb.myetherwallet.com/ko/mewwallet/mewwallet-vs-mewconnect/</loc>
+        <lastmod>2020-08-28T18:50:52.820Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
         <loc>https://kb.myetherwallet.com/ko/mewconnect/mewconnect-change-password/</loc>
         <lastmod>2020-08-28T18:50:52.820Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -1064,7 +1072,7 @@
     </url>
 
     <url>
-        <loc>https://kb.myetherwallet.com/ko/mewconnect/mewwallet-vs-mewconnect/</loc>
+        <loc>https://kb.myetherwallet.com/ko/mewconnect/mewconnect-upgrade-mewwallet/</loc>
         <lastmod>2020-08-28T18:50:52.820Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -1080,23 +1088,7 @@
     </url>
 
     <url>
-        <loc>https://kb.myetherwallet.com/ko/mewconnect/mewconnect-upgrade-mewwallet/</loc>
-        <lastmod>2020-08-28T18:50:52.820Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://kb.myetherwallet.com/ko/mewwallet/mewwallet-user-guide/</loc>
-        <lastmod>2020-08-28T18:50:52.820Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://kb.myetherwallet.com/ko/offline/offline-mew-looks-weird/</loc>
+        <loc>https://kb.myetherwallet.com/ko/mewconnect/mewwallet-vs-mewconnect/</loc>
         <lastmod>2020-08-28T18:50:52.820Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -1105,6 +1097,14 @@
 
     <url>
         <loc>https://kb.myetherwallet.com/ko/networks-and-nodes/how-to-change-networks/</loc>
+        <lastmod>2020-08-28T18:50:52.820Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://kb.myetherwallet.com/ko/offline/offline-mew-looks-weird/</loc>
         <lastmod>2020-08-28T18:50:52.820Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -1144,14 +1144,6 @@
     </url>
 
     <url>
-        <loc>https://kb.myetherwallet.com/ko/security-and-privacy/what-is-a-keystore-file/</loc>
-        <lastmod>2020-08-28T18:50:52.820Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
         <loc>https://kb.myetherwallet.com/ko/security-and-privacy/what-is-a-mnemonic-phrase/</loc>
         <lastmod>2020-08-28T18:50:52.820Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -1160,7 +1152,15 @@
     </url>
 
     <url>
-        <loc>https://kb.myetherwallet.com/es/mewwallet/mewwallet-vs-mewconnect/</loc>
+        <loc>https://kb.myetherwallet.com/ko/security-and-privacy/what-is-a-keystore-file/</loc>
+        <lastmod>2020-08-28T18:50:52.820Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://kb.myetherwallet.com/es/mewwallet/mewwallet-user-guide/</loc>
         <lastmod>2020-08-28T18:50:52.816Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -1168,7 +1168,7 @@
     </url>
 
     <url>
-        <loc>https://kb.myetherwallet.com/es/networks-and-nodes/how-to-change-networks/</loc>
+        <loc>https://kb.myetherwallet.com/es/mewwallet/mewwallet-vs-mewconnect/</loc>
         <lastmod>2020-08-28T18:50:52.816Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -1184,14 +1184,6 @@
     </url>
 
     <url>
-        <loc>https://kb.myetherwallet.com/es/security-and-privacy/mnemonic-phrase-extra-word/</loc>
-        <lastmod>2020-08-28T18:50:52.816Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
         <loc>https://kb.myetherwallet.com/es/offline/using-mew-offline/</loc>
         <lastmod>2020-08-28T18:50:52.816Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -1200,7 +1192,31 @@
     </url>
 
     <url>
+        <loc>https://kb.myetherwallet.com/es/networks-and-nodes/how-to-change-networks/</loc>
+        <lastmod>2020-08-28T18:50:52.816Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://kb.myetherwallet.com/es/security-and-privacy/mnemonic-phrase-extra-word/</loc>
+        <lastmod>2020-08-28T18:50:52.816Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
         <loc>https://kb.myetherwallet.com/es/security-and-privacy/not-recommended/</loc>
+        <lastmod>2020-08-28T18:50:52.816Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://kb.myetherwallet.com/es/security-and-privacy/pro-tips-how-to-avoid-phishing-scams/</loc>
         <lastmod>2020-08-28T18:50:52.816Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -1224,39 +1240,7 @@
     </url>
 
     <url>
-        <loc>https://kb.myetherwallet.com/es/security-and-privacy/pro-tips-how-to-avoid-phishing-scams/</loc>
-        <lastmod>2020-08-28T18:50:52.816Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://kb.myetherwallet.com/es/transactions/how-to-send-a-transaction/</loc>
-        <lastmod>2020-08-28T18:50:52.816Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://kb.myetherwallet.com/es/transactions/transaction-not-found-or-pending-forever/</loc>
-        <lastmod>2020-08-28T18:50:52.816Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://kb.myetherwallet.com/es/mewwallet/mewwallet-user-guide/</loc>
-        <lastmod>2020-08-28T18:50:52.816Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://kb.myetherwallet.com/es/transactions/what-is-gas/</loc>
+        <loc>https://kb.myetherwallet.com/es/tokens/nft-manager/</loc>
         <lastmod>2020-08-28T18:50:52.816Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -1272,22 +1256,6 @@
     </url>
 
     <url>
-        <loc>https://kb.myetherwallet.com/es/tokens/nft-manager/</loc>
-        <lastmod>2020-08-28T18:50:52.816Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://kb.myetherwallet.com/ja/dapps/ipfs_guide/</loc>
-        <lastmod>2020-08-28T18:50:52.816Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
         <loc>https://kb.myetherwallet.com/es/tokens/token-already-exists/</loc>
         <lastmod>2020-08-28T18:50:52.816Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -1296,23 +1264,7 @@
     </url>
 
     <url>
-        <loc>https://kb.myetherwallet.com/ja/dapps/unstoppabledomains/</loc>
-        <lastmod>2020-08-28T18:50:52.816Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://kb.myetherwallet.com/ja/dapps/register-ens-domain/</loc>
-        <lastmod>2020-08-28T18:50:52.816Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://kb.myetherwallet.com/ja/dapps/using_makerdao/</loc>
+        <loc>https://kb.myetherwallet.com/es/transactions/how-to-send-a-transaction/</loc>
         <lastmod>2020-08-28T18:50:52.816Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -1328,7 +1280,7 @@
     </url>
 
     <url>
-        <loc>https://kb.myetherwallet.com/ja/getting-started/using-mewcx/</loc>
+        <loc>https://kb.myetherwallet.com/es/transactions/transaction-not-found-or-pending-forever/</loc>
         <lastmod>2020-08-28T18:50:52.816Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -1336,7 +1288,7 @@
     </url>
 
     <url>
-        <loc>https://kb.myetherwallet.com/ja/hardware-wallets/using-bcvault-with-mew/</loc>
+        <loc>https://kb.myetherwallet.com/es/transactions/what-is-gas/</loc>
         <lastmod>2020-08-28T18:50:52.816Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -1344,7 +1296,31 @@
     </url>
 
     <url>
-        <loc>https://kb.myetherwallet.com/ja/hardware-wallets/using-bitbox-with-mew/</loc>
+        <loc>https://kb.myetherwallet.com/ja/dapps/ipfs_guide/</loc>
+        <lastmod>2020-08-28T18:50:52.816Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://kb.myetherwallet.com/ja/dapps/register-ens-domain/</loc>
+        <lastmod>2020-08-28T18:50:52.816Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://kb.myetherwallet.com/ja/dapps/unstoppabledomains/</loc>
+        <lastmod>2020-08-28T18:50:52.816Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://kb.myetherwallet.com/ja/dapps/using_makerdao/</loc>
         <lastmod>2020-08-28T18:50:52.816Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -1368,7 +1344,7 @@
     </url>
 
     <url>
-        <loc>https://kb.myetherwallet.com/ja/hardware-wallets/using-hardware-with-custom-path/</loc>
+        <loc>https://kb.myetherwallet.com/ja/getting-started/using-mewcx/</loc>
         <lastmod>2020-08-28T18:50:52.816Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -1376,7 +1352,7 @@
     </url>
 
     <url>
-        <loc>https://kb.myetherwallet.com/ja/hardware-wallets/using-ledger-hw-with-android-device/</loc>
+        <loc>https://kb.myetherwallet.com/ja/hardware-wallets/using-bcvault-with-mew/</loc>
         <lastmod>2020-08-28T18:50:52.816Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -1392,7 +1368,31 @@
     </url>
 
     <url>
+        <loc>https://kb.myetherwallet.com/ja/hardware-wallets/using-bitbox-with-mew/</loc>
+        <lastmod>2020-08-28T18:50:52.816Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://kb.myetherwallet.com/ja/hardware-wallets/using-hardware-with-custom-path/</loc>
+        <lastmod>2020-08-28T18:50:52.816Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
         <loc>https://kb.myetherwallet.com/ja/hardware-wallets/using-keepkey-with-mew/</loc>
+        <lastmod>2020-08-28T18:50:52.816Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://kb.myetherwallet.com/ja/hardware-wallets/using-ledger-hw-with-android-device/</loc>
         <lastmod>2020-08-28T18:50:52.816Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -1416,7 +1416,7 @@
     </url>
 
     <url>
-        <loc>https://kb.myetherwallet.com/es/dapps/unstoppabledomains/</loc>
+        <loc>https://kb.myetherwallet.com/es/dapps/register-ens-domain/</loc>
         <lastmod>2020-08-28T18:50:52.812Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -1424,7 +1424,7 @@
     </url>
 
     <url>
-        <loc>https://kb.myetherwallet.com/es/dapps/register-ens-domain/</loc>
+        <loc>https://kb.myetherwallet.com/es/dapps/unstoppabledomains/</loc>
         <lastmod>2020-08-28T18:50:52.812Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -1456,6 +1456,14 @@
     </url>
 
     <url>
+        <loc>https://kb.myetherwallet.com/es/hardware-wallets/using-bcvault-with-mew/</loc>
+        <lastmod>2020-08-28T18:50:52.812Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
         <loc>https://kb.myetherwallet.com/es/hardware-wallets/using-coolwallet-with-mew/</loc>
         <lastmod>2020-08-28T18:50:52.812Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -1465,22 +1473,6 @@
 
     <url>
         <loc>https://kb.myetherwallet.com/es/hardware-wallets/using-bitbox-with-mew/</loc>
-        <lastmod>2020-08-28T18:50:52.812Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://kb.myetherwallet.com/es/hardware-wallets/using-bcvault-with-mew/</loc>
-        <lastmod>2020-08-28T18:50:52.812Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://kb.myetherwallet.com/es/hardware-wallets/using-ledger-hw-with-android-device/</loc>
         <lastmod>2020-08-28T18:50:52.812Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -1504,15 +1496,7 @@
     </url>
 
     <url>
-        <loc>https://kb.myetherwallet.com/es/hardware-wallets/using-trezor-with-mew/</loc>
-        <lastmod>2020-08-28T18:50:52.812Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://kb.myetherwallet.com/es/hardware-wallets/using-secalot-with-mew/</loc>
+        <loc>https://kb.myetherwallet.com/es/hardware-wallets/using-ledger-hw-with-android-device/</loc>
         <lastmod>2020-08-28T18:50:52.812Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -1528,31 +1512,31 @@
     </url>
 
     <url>
+        <loc>https://kb.myetherwallet.com/es/hardware-wallets/using-secalot-with-mew/</loc>
+        <lastmod>2020-08-28T18:50:52.812Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://kb.myetherwallet.com/es/hardware-wallets/using-trezor-with-mew/</loc>
+        <lastmod>2020-08-28T18:50:52.812Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://kb.myetherwallet.com/es/mewwallet/mewwallet-swap/</loc>
+        <lastmod>2020-08-28T18:50:52.812Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
         <loc>https://kb.myetherwallet.com/es/mewconnect/mewconnect-change-password/</loc>
-        <lastmod>2020-08-28T18:50:52.812Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://kb.myetherwallet.com/es/mewconnect/mewconnect-secure-enclave/</loc>
-        <lastmod>2020-08-28T18:50:52.812Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://kb.myetherwallet.com/es/mewconnect/mewwallet-vs-mewconnect/</loc>
-        <lastmod>2020-08-28T18:50:52.812Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://kb.myetherwallet.com/es/mewconnect/mewconnect-upgrade-mewwallet/</loc>
         <lastmod>2020-08-28T18:50:52.812Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -1568,8 +1552,104 @@
     </url>
 
     <url>
-        <loc>https://kb.myetherwallet.com/es/mewwallet/mewwallet-swap/</loc>
+        <loc>https://kb.myetherwallet.com/es/mewconnect/mewconnect-secure-enclave/</loc>
         <lastmod>2020-08-28T18:50:52.812Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://kb.myetherwallet.com/es/mewconnect/mewconnect-upgrade-mewwallet/</loc>
+        <lastmod>2020-08-28T18:50:52.812Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://kb.myetherwallet.com/es/mewconnect/mewwallet-vs-mewconnect/</loc>
+        <lastmod>2020-08-28T18:50:52.812Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://kb.myetherwallet.com/en/dapps/ambrpay/</loc>
+        <lastmod>2020-08-28T18:50:33.547Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://kb.myetherwallet.com/en/dapps/aave/</loc>
+        <lastmod>2020-08-28T18:50:33.547Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://kb.myetherwallet.com/en/dapps/ipfs_guide/</loc>
+        <lastmod>2020-08-28T18:50:33.547Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://kb.myetherwallet.com/en/dapps/register-ens-domain/</loc>
+        <lastmod>2020-08-28T18:50:33.547Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://kb.myetherwallet.com/en/dapps/unstoppabledomains/</loc>
+        <lastmod>2020-08-28T18:50:33.547Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://kb.myetherwallet.com/en/dapps/scheduled_tx/</loc>
+        <lastmod>2020-08-28T18:50:33.547Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://kb.myetherwallet.com/en/dapps/using_makerdao/</loc>
+        <lastmod>2020-08-28T18:50:33.547Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://kb.myetherwallet.com/en/mewconnect/mewwallet-vs-mewconnect/</loc>
+        <lastmod>2020-08-28T18:50:33.547Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://kb.myetherwallet.com/en/mewconnect/mewconnect-upgrade-mewwallet/</loc>
+        <lastmod>2020-08-28T18:50:33.547Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://kb.myetherwallet.com/en/mewconnect/mewconnect-user-guide/</loc>
+        <lastmod>2020-08-28T18:50:33.547Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
@@ -1592,7 +1672,7 @@
     </url>
 
     <url>
-        <loc>https://kb.myetherwallet.com/en/diving-deeper/using-mew-as-a-pwa/</loc>
+        <loc>https://kb.myetherwallet.com/en/diving-deeper/how-to-interact-with-multisig-contract/</loc>
         <lastmod>2020-08-28T18:50:33.547Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -1600,7 +1680,15 @@
     </url>
 
     <url>
-        <loc>https://kb.myetherwallet.com/en/diving-deeper/how-to-interact-with-multisig-contract/</loc>
+        <loc>https://kb.myetherwallet.com/en/diving-deeper/how-to-submit-pull-request/</loc>
+        <lastmod>2020-08-28T18:50:33.547Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://kb.myetherwallet.com/en/diving-deeper/using-mew-as-a-pwa/</loc>
         <lastmod>2020-08-28T18:50:33.547Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -1624,7 +1712,7 @@
     </url>
 
     <url>
-        <loc>https://kb.myetherwallet.com/en/diving-deeper/how-to-submit-pull-request/</loc>
+        <loc>https://kb.myetherwallet.com/en/getting-started/back-to-the-basics/</loc>
         <lastmod>2020-08-28T18:50:33.547Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -1632,7 +1720,7 @@
     </url>
 
     <url>
-        <loc>https://kb.myetherwallet.com/en/getting-started/back-to-the-basics/</loc>
+        <loc>https://kb.myetherwallet.com/en/getting-started/checking-your-balance/</loc>
         <lastmod>2020-08-28T18:50:33.547Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -1656,151 +1744,7 @@
     </url>
 
     <url>
-        <loc>https://kb.myetherwallet.com/en/getting-started/how-to-create-a-wallet/</loc>
-        <lastmod>2020-08-28T18:50:33.547Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://kb.myetherwallet.com/en/getting-started/checking-your-balance/</loc>
-        <lastmod>2020-08-28T18:50:33.547Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://kb.myetherwallet.com/en/getting-started/myetherwallet-an-introduction/</loc>
-        <lastmod>2020-08-28T18:50:33.547Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://kb.myetherwallet.com/en/dapps/ambrpay/</loc>
-        <lastmod>2020-08-28T18:50:33.547Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://kb.myetherwallet.com/en/getting-started/window-blocked/</loc>
-        <lastmod>2020-08-28T18:50:33.547Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://kb.myetherwallet.com/en/dapps/aave/</loc>
-        <lastmod>2020-08-28T18:50:33.547Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://kb.myetherwallet.com/en/getting-started/using-mewcx/</loc>
-        <lastmod>2020-08-28T18:50:33.547Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://kb.myetherwallet.com/en/dapps/ipfs_guide/</loc>
-        <lastmod>2020-08-28T18:50:33.547Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://kb.myetherwallet.com/en/dapps/scheduled_tx/</loc>
-        <lastmod>2020-08-28T18:50:33.547Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
         <loc>https://kb.myetherwallet.com/en/getting-started/glossary-of-common-terms/</loc>
-        <lastmod>2020-08-28T18:50:33.547Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://kb.myetherwallet.com/en/dapps/register-ens-domain/</loc>
-        <lastmod>2020-08-28T18:50:33.547Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://kb.myetherwallet.com/en/dapps/using_makerdao/</loc>
-        <lastmod>2020-08-28T18:50:33.547Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://kb.myetherwallet.com/en/mewconnect/mewconnect-user-guide/</loc>
-        <lastmod>2020-08-28T18:50:33.547Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://kb.myetherwallet.com/en/dapps/unstoppabledomains/</loc>
-        <lastmod>2020-08-28T18:50:33.547Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://kb.myetherwallet.com/en/hardware-wallets/unable-to-connect-with-hardware-wallet/</loc>
-        <lastmod>2020-08-28T18:50:33.547Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://kb.myetherwallet.com/en/mewconnect/mewconnect-upgrade-mewwallet/</loc>
-        <lastmod>2020-08-28T18:50:33.547Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://kb.myetherwallet.com/en/hardware-wallets/using-bcvault-with-mew/</loc>
-        <lastmod>2020-08-28T18:50:33.547Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://kb.myetherwallet.com/en/mewconnect/mewwallet-vs-mewconnect/</loc>
-        <lastmod>2020-08-28T18:50:33.547Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://kb.myetherwallet.com/en/hardware-wallets/using-bitbox-with-mew/</loc>
         <lastmod>2020-08-28T18:50:33.547Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -1816,7 +1760,7 @@
     </url>
 
     <url>
-        <loc>https://kb.myetherwallet.com/en/hardware-wallets/using-hardware-wallet-with-custom-node/</loc>
+        <loc>https://kb.myetherwallet.com/en/getting-started/how-to-create-a-wallet/</loc>
         <lastmod>2020-08-28T18:50:33.547Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -1824,7 +1768,47 @@
     </url>
 
     <url>
-        <loc>https://kb.myetherwallet.com/en/hardware-wallets/using-ledger-hw-with-android-device/</loc>
+        <loc>https://kb.myetherwallet.com/en/getting-started/using-mewcx/</loc>
+        <lastmod>2020-08-28T18:50:33.547Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://kb.myetherwallet.com/en/getting-started/myetherwallet-an-introduction/</loc>
+        <lastmod>2020-08-28T18:50:33.547Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://kb.myetherwallet.com/en/getting-started/window-blocked/</loc>
+        <lastmod>2020-08-28T18:50:33.547Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://kb.myetherwallet.com/en/hardware-wallets/unable-to-connect-with-hardware-wallet/</loc>
+        <lastmod>2020-08-28T18:50:33.547Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://kb.myetherwallet.com/en/hardware-wallets/using-bitbox-with-mew/</loc>
+        <lastmod>2020-08-28T18:50:33.547Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://kb.myetherwallet.com/en/hardware-wallets/using-bcvault-with-mew/</loc>
         <lastmod>2020-08-28T18:50:33.547Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -1840,6 +1824,14 @@
     </url>
 
     <url>
+        <loc>https://kb.myetherwallet.com/en/hardware-wallets/using-hardware-wallet-with-custom-node/</loc>
+        <lastmod>2020-08-28T18:50:33.547Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
         <loc>https://kb.myetherwallet.com/en/hardware-wallets/using-hardware-with-custom-path/</loc>
         <lastmod>2020-08-28T18:50:33.547Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -1848,7 +1840,7 @@
     </url>
 
     <url>
-        <loc>https://kb.myetherwallet.com/en/hardware-wallets/using-secalot-with-mew/</loc>
+        <loc>https://kb.myetherwallet.com/en/hardware-wallets/using-ledger-hw-with-android-device/</loc>
         <lastmod>2020-08-28T18:50:33.547Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -1872,7 +1864,7 @@
     </url>
 
     <url>
-        <loc>https://kb.myetherwallet.com/en/mewwallet/mewwallet-private-key/</loc>
+        <loc>https://kb.myetherwallet.com/en/hardware-wallets/using-secalot-with-mew/</loc>
         <lastmod>2020-08-28T18:50:33.547Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -1888,15 +1880,7 @@
     </url>
 
     <url>
-        <loc>https://kb.myetherwallet.com/en/mewwallet/mewwallet-swap/</loc>
-        <lastmod>2020-08-28T18:50:33.547Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://kb.myetherwallet.com/en/offline/offline-mew-looks-weird/</loc>
+        <loc>https://kb.myetherwallet.com/en/mewwallet/mewwallet-private-key/</loc>
         <lastmod>2020-08-28T18:50:33.547Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -1905,6 +1889,54 @@
 
     <url>
         <loc>https://kb.myetherwallet.com/en/mewwallet/mewwallet-security/</loc>
+        <lastmod>2020-08-28T18:50:33.547Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://kb.myetherwallet.com/en/mewwallet/mewwallet-swap/</loc>
+        <lastmod>2020-08-28T18:50:33.547Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://kb.myetherwallet.com/en/mewwallet/mewwallet-user-guide/</loc>
+        <lastmod>2020-08-28T18:50:33.547Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://kb.myetherwallet.com/en/networks-and-nodes/add-default-network/</loc>
+        <lastmod>2020-08-28T18:50:33.547Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://kb.myetherwallet.com/en/networks-and-nodes/how-to-change-networks/</loc>
+        <lastmod>2020-08-28T18:50:33.547Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://kb.myetherwallet.com/en/networks-and-nodes/unable-to-connect-to-custom-node/</loc>
+        <lastmod>2020-08-28T18:50:33.547Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://kb.myetherwallet.com/en/offline/offline-mew-looks-weird/</loc>
         <lastmod>2020-08-28T18:50:33.547Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -1921,102 +1953,6 @@
 
     <url>
         <loc>https://kb.myetherwallet.com/en/offline/using-mew-offline/</loc>
-        <lastmod>2020-08-28T18:50:33.547Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://kb.myetherwallet.com/en/networks-and-nodes/how-to-change-networks/</loc>
-        <lastmod>2020-08-28T18:50:33.547Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://kb.myetherwallet.com/en/networks-and-nodes/add-default-network/</loc>
-        <lastmod>2020-08-28T18:50:33.547Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://kb.myetherwallet.com/en/networks-and-nodes/unable-to-connect-to-custom-node/</loc>
-        <lastmod>2020-08-28T18:50:33.547Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://kb.myetherwallet.com/en/security-and-privacy/ensuring-mew-doesnt-give-people-same-address/</loc>
-        <lastmod>2020-08-28T18:50:33.547Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://kb.myetherwallet.com/en/security-and-privacy/lost-private-key/</loc>
-        <lastmod>2020-08-28T18:50:33.547Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://kb.myetherwallet.com/en/security-and-privacy/not-recommended/</loc>
-        <lastmod>2020-08-28T18:50:33.547Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://kb.myetherwallet.com/en/security-and-privacy/mnemonic-phrase-extra-word/</loc>
-        <lastmod>2020-08-28T18:50:33.547Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://kb.myetherwallet.com/en/security-and-privacy/pro-tips-how-to-avoid-phishing-scams/</loc>
-        <lastmod>2020-08-28T18:50:33.547Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://kb.myetherwallet.com/en/security-and-privacy/private-key-not-working/</loc>
-        <lastmod>2020-08-28T18:50:33.547Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://kb.myetherwallet.com/en/security-and-privacy/should-i-keep-eth-on-multiple-addresses/</loc>
-        <lastmod>2020-08-28T18:50:33.547Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://kb.myetherwallet.com/en/security-and-privacy/what-is-a-keystore-file/</loc>
-        <lastmod>2020-08-28T18:50:33.547Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://kb.myetherwallet.com/en/security-and-privacy/what-is-a-mnemonic-phrase/</loc>
         <lastmod>2020-08-28T18:50:33.547Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -2048,7 +1984,7 @@
     </url>
 
     <url>
-        <loc>https://kb.myetherwallet.com/en/migration/using-jaxx-with-mew/</loc>
+        <loc>https://kb.myetherwallet.com/en/migration/using-geth-or-mist-with-mew/</loc>
         <lastmod>2020-08-28T18:50:33.547Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -2056,7 +1992,7 @@
     </url>
 
     <url>
-        <loc>https://kb.myetherwallet.com/en/security-and-privacy/what-to-do-if-youve-had-your-funds-stolen/</loc>
+        <loc>https://kb.myetherwallet.com/en/migration/using-jaxx-with-mew/</loc>
         <lastmod>2020-08-28T18:50:33.547Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -2080,14 +2016,6 @@
     </url>
 
     <url>
-        <loc>https://kb.myetherwallet.com/en/migration/using-geth-or-mist-with-mew/</loc>
-        <lastmod>2020-08-28T18:50:33.547Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
         <loc>https://kb.myetherwallet.com/en/swap/swap-canceled-or-not-completed/</loc>
         <lastmod>2020-08-28T18:50:33.547Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -2104,7 +2032,7 @@
     </url>
 
     <url>
-        <loc>https://kb.myetherwallet.com/en/mewwallet/mewwallet-user-guide/</loc>
+        <loc>https://kb.myetherwallet.com/en/tokens/adding-token-as-a-default/</loc>
         <lastmod>2020-08-28T18:50:33.547Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -2128,7 +2056,7 @@
     </url>
 
     <url>
-        <loc>https://kb.myetherwallet.com/en/tokens/adding-token-as-a-default/</loc>
+        <loc>https://kb.myetherwallet.com/en/tokens/random-tokens-in-my-wallet/</loc>
         <lastmod>2020-08-28T18:50:33.547Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -2144,7 +2072,87 @@
     </url>
 
     <url>
-        <loc>https://kb.myetherwallet.com/en/tokens/random-tokens-in-my-wallet/</loc>
+        <loc>https://kb.myetherwallet.com/en/security-and-privacy/ensuring-mew-doesnt-give-people-same-address/</loc>
+        <lastmod>2020-08-28T18:50:33.547Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://kb.myetherwallet.com/en/security-and-privacy/lost-private-key/</loc>
+        <lastmod>2020-08-28T18:50:33.547Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://kb.myetherwallet.com/en/security-and-privacy/mnemonic-phrase-extra-word/</loc>
+        <lastmod>2020-08-28T18:50:33.547Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://kb.myetherwallet.com/en/security-and-privacy/not-recommended/</loc>
+        <lastmod>2020-08-28T18:50:33.547Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://kb.myetherwallet.com/en/security-and-privacy/private-key-not-working/</loc>
+        <lastmod>2020-08-28T18:50:33.547Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://kb.myetherwallet.com/en/security-and-privacy/pro-tips-how-to-avoid-phishing-scams/</loc>
+        <lastmod>2020-08-28T18:50:33.547Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://kb.myetherwallet.com/en/security-and-privacy/should-i-keep-eth-on-multiple-addresses/</loc>
+        <lastmod>2020-08-28T18:50:33.547Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://kb.myetherwallet.com/en/security-and-privacy/what-is-a-keystore-file/</loc>
+        <lastmod>2020-08-28T18:50:33.547Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://kb.myetherwallet.com/en/security-and-privacy/what-is-a-mnemonic-phrase/</loc>
+        <lastmod>2020-08-28T18:50:33.547Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://kb.myetherwallet.com/en/security-and-privacy/what-to-do-if-youve-had-your-funds-stolen/</loc>
+        <lastmod>2020-08-28T18:50:33.547Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://kb.myetherwallet.com/en/transactions/checking-or-replacing-a-tx-after-sending/</loc>
         <lastmod>2020-08-28T18:50:33.547Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -2208,14 +2216,6 @@
     </url>
 
     <url>
-        <loc>https://kb.myetherwallet.com/en/transactions/what-is-gas/</loc>
-        <lastmod>2020-08-28T18:50:33.547Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
         <loc>https://kb.myetherwallet.com/en/transactions/tx-failed-why-was-i-charged/</loc>
         <lastmod>2020-08-28T18:50:33.547Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -2224,39 +2224,15 @@
     </url>
 
     <url>
+        <loc>https://kb.myetherwallet.com/en/transactions/what-is-gas/</loc>
+        <lastmod>2020-08-28T18:50:33.547Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
         <loc>https://kb.myetherwallet.com/en/transactions/what-is-nonce/</loc>
-        <lastmod>2020-08-28T18:50:33.547Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://kb.myetherwallet.com/en/transactions/checking-or-replacing-a-tx-after-sending/</loc>
-        <lastmod>2020-08-28T18:50:33.547Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://kb.myetherwallet.com/ja/dapps/ambrpay/</loc>
-        <lastmod>2020-08-28T18:50:33.547Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://kb.myetherwallet.com/ja/dapps/aave/</loc>
-        <lastmod>2020-08-28T18:50:33.547Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://kb.myetherwallet.com/ja/dapps/scheduled_tx/</loc>
         <lastmod>2020-08-28T18:50:33.547Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -2288,14 +2264,6 @@
     </url>
 
     <url>
-        <loc>https://kb.myetherwallet.com/ja/diving-deeper/what-is-a-smart-contract/</loc>
-        <lastmod>2020-08-28T18:50:33.547Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
         <loc>https://kb.myetherwallet.com/ja/diving-deeper/how-to-submit-pull-request/</loc>
         <lastmod>2020-08-28T18:50:33.547Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -2312,7 +2280,55 @@
     </url>
 
     <url>
-        <loc>https://kb.myetherwallet.com/ja/getting-started/checking-your-balance/</loc>
+        <loc>https://kb.myetherwallet.com/ja/diving-deeper/what-happens-if-mew-goes-down/</loc>
+        <lastmod>2020-08-28T18:50:33.547Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://kb.myetherwallet.com/ja/diving-deeper/what-is-a-smart-contract/</loc>
+        <lastmod>2020-08-28T18:50:33.547Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://kb.myetherwallet.com/ja/dapps/aave/</loc>
+        <lastmod>2020-08-28T18:50:33.547Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://kb.myetherwallet.com/ja/dapps/ambrpay/</loc>
+        <lastmod>2020-08-28T18:50:33.547Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://kb.myetherwallet.com/ja/dapps/scheduled_tx/</loc>
+        <lastmod>2020-08-28T18:50:33.547Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://kb.myetherwallet.com/ja/mewwallet/mewwallet-private-key/</loc>
+        <lastmod>2020-08-28T18:50:33.547Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://kb.myetherwallet.com/ja/mewwallet/mewwallet-security/</loc>
         <lastmod>2020-08-28T18:50:33.547Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -2328,7 +2344,7 @@
     </url>
 
     <url>
-        <loc>https://kb.myetherwallet.com/ja/getting-started/does-mew-support-other-coins/</loc>
+        <loc>https://kb.myetherwallet.com/ja/getting-started/checking-your-balance/</loc>
         <lastmod>2020-08-28T18:50:33.547Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -2344,7 +2360,7 @@
     </url>
 
     <url>
-        <loc>https://kb.myetherwallet.com/ja/diving-deeper/what-happens-if-mew-goes-down/</loc>
+        <loc>https://kb.myetherwallet.com/ja/getting-started/does-mew-support-other-coins/</loc>
         <lastmod>2020-08-28T18:50:33.547Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -2376,14 +2392,6 @@
     </url>
 
     <url>
-        <loc>https://kb.myetherwallet.com/ja/mewconnect/mewconnect-101-create/</loc>
-        <lastmod>2020-08-28T18:50:33.547Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
         <loc>https://kb.myetherwallet.com/ja/mewconnect/mewconnect-101-connect/</loc>
         <lastmod>2020-08-28T18:50:33.547Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -2392,15 +2400,7 @@
     </url>
 
     <url>
-        <loc>https://kb.myetherwallet.com/ja/mewconnect/mewconnect-101-transfer/</loc>
-        <lastmod>2020-08-28T18:50:33.547Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://kb.myetherwallet.com/ja/mewconnect/mewconnect-101-recover/</loc>
+        <loc>https://kb.myetherwallet.com/ja/mewconnect/mewconnect-101-create/</loc>
         <lastmod>2020-08-28T18:50:33.547Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -2416,7 +2416,7 @@
     </url>
 
     <url>
-        <loc>https://kb.myetherwallet.com/ja/mewwallet/mewwallet-security/</loc>
+        <loc>https://kb.myetherwallet.com/ja/mewconnect/mewconnect-101-recover/</loc>
         <lastmod>2020-08-28T18:50:33.547Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -2424,7 +2424,7 @@
     </url>
 
     <url>
-        <loc>https://kb.myetherwallet.com/ja/mewwallet/mewwallet-private-key/</loc>
+        <loc>https://kb.myetherwallet.com/ja/mewconnect/mewconnect-101-transfer/</loc>
         <lastmod>2020-08-28T18:50:33.547Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -2448,23 +2448,7 @@
     </url>
 
     <url>
-        <loc>https://kb.myetherwallet.com/ja/offline/offline_transaction/</loc>
-        <lastmod>2020-08-28T18:50:33.547Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://kb.myetherwallet.com/ja/networks-and-nodes/unable-to-connect-to-custom-node/</loc>
-        <lastmod>2020-08-28T18:50:33.547Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://kb.myetherwallet.com/ja/networks-and-nodes/add-default-network/</loc>
+        <loc>https://kb.myetherwallet.com/ja/migration/importing-v2-json-file/</loc>
         <lastmod>2020-08-28T18:50:33.547Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -2504,7 +2488,7 @@
     </url>
 
     <url>
-        <loc>https://kb.myetherwallet.com/ja/migration/importing-v2-json-file/</loc>
+        <loc>https://kb.myetherwallet.com/ja/migration/using-metamask-with-mew/</loc>
         <lastmod>2020-08-28T18:50:33.547Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -2512,7 +2496,23 @@
     </url>
 
     <url>
-        <loc>https://kb.myetherwallet.com/ja/migration/using-metamask-with-mew/</loc>
+        <loc>https://kb.myetherwallet.com/ja/networks-and-nodes/add-default-network/</loc>
+        <lastmod>2020-08-28T18:50:33.547Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://kb.myetherwallet.com/ja/networks-and-nodes/unable-to-connect-to-custom-node/</loc>
+        <lastmod>2020-08-28T18:50:33.547Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://kb.myetherwallet.com/ja/offline/offline_transaction/</loc>
         <lastmod>2020-08-28T18:50:33.547Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -2528,7 +2528,7 @@
     </url>
 
     <url>
-        <loc>https://kb.myetherwallet.com/es/dapps/ambrpay/</loc>
+        <loc>https://kb.myetherwallet.com/es/dapps/aave/</loc>
         <lastmod>2020-08-28T18:50:33.543Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -2536,7 +2536,7 @@
     </url>
 
     <url>
-        <loc>https://kb.myetherwallet.com/es/dapps/aave/</loc>
+        <loc>https://kb.myetherwallet.com/es/dapps/ambrpay/</loc>
         <lastmod>2020-08-28T18:50:33.543Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -2568,6 +2568,14 @@
     </url>
 
     <url>
+        <loc>https://kb.myetherwallet.com/es/diving-deeper/how-to-interact-with-multisig-contract/</loc>
+        <lastmod>2020-08-28T18:50:33.543Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
         <loc>https://kb.myetherwallet.com/es/diving-deeper/how-to-submit-pull-request/</loc>
         <lastmod>2020-08-28T18:50:33.543Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -2576,7 +2584,7 @@
     </url>
 
     <url>
-        <loc>https://kb.myetherwallet.com/es/diving-deeper/what-happens-if-mew-goes-down/</loc>
+        <loc>https://kb.myetherwallet.com/es/diving-deeper/using-mew-as-a-pwa/</loc>
         <lastmod>2020-08-28T18:50:33.543Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -2584,7 +2592,7 @@
     </url>
 
     <url>
-        <loc>https://kb.myetherwallet.com/es/diving-deeper/using-mew-as-a-pwa/</loc>
+        <loc>https://kb.myetherwallet.com/es/diving-deeper/what-happens-if-mew-goes-down/</loc>
         <lastmod>2020-08-28T18:50:33.543Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -2632,14 +2640,6 @@
     </url>
 
     <url>
-        <loc>https://kb.myetherwallet.com/es/diving-deeper/how-to-interact-with-multisig-contract/</loc>
-        <lastmod>2020-08-28T18:50:33.543Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
         <loc>https://kb.myetherwallet.com/es/getting-started/how-to-create-a-wallet/</loc>
         <lastmod>2020-08-28T18:50:33.543Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -2648,7 +2648,7 @@
     </url>
 
     <url>
-        <loc>https://kb.myetherwallet.com/es/getting-started/using-mewcx/</loc>
+        <loc>https://kb.myetherwallet.com/es/getting-started/myetherwallet-an-introduction/</loc>
         <lastmod>2020-08-28T18:50:33.543Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -2656,7 +2656,7 @@
     </url>
 
     <url>
-        <loc>https://kb.myetherwallet.com/es/getting-started/myetherwallet-an-introduction/</loc>
+        <loc>https://kb.myetherwallet.com/es/getting-started/using-mewcx/</loc>
         <lastmod>2020-08-28T18:50:33.543Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -2688,7 +2688,7 @@
     </url>
 
     <url>
-        <loc>https://kb.myetherwallet.com/es/mewconnect/mewconnect-101-connect/</loc>
+        <loc>https://kb.myetherwallet.com/es/mewwallet/mewwallet-private-key/</loc>
         <lastmod>2020-08-28T18:50:33.543Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -2696,31 +2696,7 @@
     </url>
 
     <url>
-        <loc>https://kb.myetherwallet.com/es/mewconnect/mewconnect-101-overview/</loc>
-        <lastmod>2020-08-28T18:50:33.543Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://kb.myetherwallet.com/es/mewconnect/mewconnect-101-create/</loc>
-        <lastmod>2020-08-28T18:50:33.543Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://kb.myetherwallet.com/es/mewconnect/mewconnect-101-recover/</loc>
-        <lastmod>2020-08-28T18:50:33.543Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://kb.myetherwallet.com/es/mewconnect/mewconnect-101-transfer/</loc>
+        <loc>https://kb.myetherwallet.com/es/mewwallet/mewwallet-security/</loc>
         <lastmod>2020-08-28T18:50:33.543Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -2776,7 +2752,7 @@
     </url>
 
     <url>
-        <loc>https://kb.myetherwallet.com/es/mewwallet/mewwallet-security/</loc>
+        <loc>https://kb.myetherwallet.com/es/mewconnect/mewconnect-101-connect/</loc>
         <lastmod>2020-08-28T18:50:33.543Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -2784,7 +2760,39 @@
     </url>
 
     <url>
-        <loc>https://kb.myetherwallet.com/es/mewwallet/mewwallet-private-key/</loc>
+        <loc>https://kb.myetherwallet.com/es/mewconnect/mewconnect-101-create/</loc>
+        <lastmod>2020-08-28T18:50:33.543Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://kb.myetherwallet.com/es/mewconnect/mewconnect-101-overview/</loc>
+        <lastmod>2020-08-28T18:50:33.543Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://kb.myetherwallet.com/es/mewconnect/mewconnect-101-transfer/</loc>
+        <lastmod>2020-08-28T18:50:33.543Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://kb.myetherwallet.com/es/mewconnect/mewconnect-101-recover/</loc>
+        <lastmod>2020-08-28T18:50:33.543Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://kb.myetherwallet.com/es/offline/offline_transaction/</loc>
         <lastmod>2020-08-28T18:50:33.543Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -2808,7 +2816,23 @@
     </url>
 
     <url>
-        <loc>https://kb.myetherwallet.com/es/offline/offline_transaction/</loc>
+        <loc>https://kb.myetherwallet.com/es/swap/buy-eth-via-simplex/</loc>
+        <lastmod>2020-08-28T18:50:33.543Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://kb.myetherwallet.com/es/swap/swap-canceled-or-not-completed/</loc>
+        <lastmod>2020-08-28T18:50:33.543Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://kb.myetherwallet.com/es/swap/swapping-via-kyber-bity-changelly/</loc>
         <lastmod>2020-08-28T18:50:33.543Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -2856,6 +2880,22 @@
     </url>
 
     <url>
+        <loc>https://kb.myetherwallet.com/es/tokens/adding-token-as-a-default/</loc>
+        <lastmod>2020-08-28T18:50:33.543Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://kb.myetherwallet.com/es/tokens/random-tokens-in-my-wallet/</loc>
+        <lastmod>2020-08-28T18:50:33.543Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
         <loc>https://kb.myetherwallet.com/es/transactions/eth-tokens-haven%27t-shown-up-from-exchange/</loc>
         <lastmod>2020-08-28T18:50:33.543Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -2896,14 +2936,6 @@
     </url>
 
     <url>
-        <loc>https://kb.myetherwallet.com/es/transactions/what-is-nonce/</loc>
-        <lastmod>2020-08-28T18:50:33.543Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
         <loc>https://kb.myetherwallet.com/es/transactions/tx-failed-why-was-i-charged/</loc>
         <lastmod>2020-08-28T18:50:33.543Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -2912,39 +2944,7 @@
     </url>
 
     <url>
-        <loc>https://kb.myetherwallet.com/es/tokens/random-tokens-in-my-wallet/</loc>
-        <lastmod>2020-08-28T18:50:33.543Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://kb.myetherwallet.com/es/tokens/adding-token-as-a-default/</loc>
-        <lastmod>2020-08-28T18:50:33.543Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://kb.myetherwallet.com/es/swap/buy-eth-via-simplex/</loc>
-        <lastmod>2020-08-28T18:50:33.543Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://kb.myetherwallet.com/es/swap/swap-canceled-or-not-completed/</loc>
-        <lastmod>2020-08-28T18:50:33.543Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://kb.myetherwallet.com/es/swap/swapping-via-kyber-bity-changelly/</loc>
+        <loc>https://kb.myetherwallet.com/es/transactions/what-is-nonce/</loc>
         <lastmod>2020-08-28T18:50:33.543Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -2976,55 +2976,7 @@
     </url>
 
     <url>
-        <loc>https://kb.myetherwallet.com/ja/tokens/adding-token-as-a-default/</loc>
-        <lastmod>2020-08-28T18:50:33.543Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
         <loc>https://kb.myetherwallet.com/ja/security-and-privacy/what-to-do-if-youve-had-your-funds-stolen/</loc>
-        <lastmod>2020-08-28T18:50:33.543Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://kb.myetherwallet.com/ja/tokens/random-tokens-in-my-wallet/</loc>
-        <lastmod>2020-08-28T18:50:33.543Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://kb.myetherwallet.com/ja/swap/swap-canceled-or-not-completed/</loc>
-        <lastmod>2020-08-28T18:50:33.543Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://kb.myetherwallet.com/ja/swap/buy-eth-via-simplex/</loc>
-        <lastmod>2020-08-28T18:50:33.543Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://kb.myetherwallet.com/ja/swap/swapping-via-kyber-bity-changelly/</loc>
-        <lastmod>2020-08-28T18:50:33.543Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://kb.myetherwallet.com/ko/dapps/ambrpay/</loc>
         <lastmod>2020-08-28T18:50:33.543Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -3040,63 +2992,15 @@
     </url>
 
     <url>
+        <loc>https://kb.myetherwallet.com/ko/dapps/ambrpay/</loc>
+        <lastmod>2020-08-28T18:50:33.543Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
         <loc>https://kb.myetherwallet.com/ko/dapps/scheduled_tx/</loc>
-        <lastmod>2020-08-28T18:50:33.543Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://kb.myetherwallet.com/ko/diving-deeper/does-mew-have-an-api/</loc>
-        <lastmod>2020-08-28T18:50:33.543Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://kb.myetherwallet.com/ko/diving-deeper/does-mew-api-limit-amount-of-requests/</loc>
-        <lastmod>2020-08-28T18:50:33.543Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://kb.myetherwallet.com/ko/diving-deeper/how-to-interact-with-multisig-contract/</loc>
-        <lastmod>2020-08-28T18:50:33.543Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://kb.myetherwallet.com/ko/diving-deeper/how-to-submit-pull-request/</loc>
-        <lastmod>2020-08-28T18:50:33.543Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://kb.myetherwallet.com/ko/diving-deeper/what-happens-if-mew-goes-down/</loc>
-        <lastmod>2020-08-28T18:50:33.543Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://kb.myetherwallet.com/ko/diving-deeper/what-is-a-smart-contract/</loc>
-        <lastmod>2020-08-28T18:50:33.543Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://kb.myetherwallet.com/ko/diving-deeper/using-mew-as-a-pwa/</loc>
         <lastmod>2020-08-28T18:50:33.543Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -3144,6 +3048,14 @@
     </url>
 
     <url>
+        <loc>https://kb.myetherwallet.com/ja/transactions/tx-failed-why-was-i-charged/</loc>
+        <lastmod>2020-08-28T18:50:33.543Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
         <loc>https://kb.myetherwallet.com/ja/transactions/what-is-nonce/</loc>
         <lastmod>2020-08-28T18:50:33.543Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -3152,7 +3064,95 @@
     </url>
 
     <url>
-        <loc>https://kb.myetherwallet.com/ja/transactions/tx-failed-why-was-i-charged/</loc>
+        <loc>https://kb.myetherwallet.com/ja/tokens/adding-token-as-a-default/</loc>
+        <lastmod>2020-08-28T18:50:33.543Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://kb.myetherwallet.com/ja/tokens/random-tokens-in-my-wallet/</loc>
+        <lastmod>2020-08-28T18:50:33.543Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://kb.myetherwallet.com/ja/swap/buy-eth-via-simplex/</loc>
+        <lastmod>2020-08-28T18:50:33.543Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://kb.myetherwallet.com/ja/swap/swap-canceled-or-not-completed/</loc>
+        <lastmod>2020-08-28T18:50:33.543Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://kb.myetherwallet.com/ja/swap/swapping-via-kyber-bity-changelly/</loc>
+        <lastmod>2020-08-28T18:50:33.543Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://kb.myetherwallet.com/ko/diving-deeper/does-mew-api-limit-amount-of-requests/</loc>
+        <lastmod>2020-08-28T18:50:33.543Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://kb.myetherwallet.com/ko/diving-deeper/does-mew-have-an-api/</loc>
+        <lastmod>2020-08-28T18:50:33.543Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://kb.myetherwallet.com/ko/diving-deeper/how-to-interact-with-multisig-contract/</loc>
+        <lastmod>2020-08-28T18:50:33.543Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://kb.myetherwallet.com/ko/diving-deeper/how-to-submit-pull-request/</loc>
+        <lastmod>2020-08-28T18:50:33.543Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://kb.myetherwallet.com/ko/diving-deeper/using-mew-as-a-pwa/</loc>
+        <lastmod>2020-08-28T18:50:33.543Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://kb.myetherwallet.com/ko/diving-deeper/what-happens-if-mew-goes-down/</loc>
+        <lastmod>2020-08-28T18:50:33.543Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://kb.myetherwallet.com/ko/diving-deeper/what-is-a-smart-contract/</loc>
         <lastmod>2020-08-28T18:50:33.543Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -3168,7 +3168,7 @@
     </url>
 
     <url>
-        <loc>https://kb.myetherwallet.com/ko/getting-started/difference-between-mew-and-exchange/</loc>
+        <loc>https://kb.myetherwallet.com/ko/getting-started/checking-your-balance/</loc>
         <lastmod>2020-08-28T18:50:33.543Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -3176,7 +3176,7 @@
     </url>
 
     <url>
-        <loc>https://kb.myetherwallet.com/ko/getting-started/checking-your-balance/</loc>
+        <loc>https://kb.myetherwallet.com/ko/getting-started/difference-between-mew-and-exchange/</loc>
         <lastmod>2020-08-28T18:50:33.543Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -3240,7 +3240,7 @@
     </url>
 
     <url>
-        <loc>https://kb.myetherwallet.com/ko/mewwallet/mewwallet-security/</loc>
+        <loc>https://kb.myetherwallet.com/ko/mewwallet/mewwallet-private-key/</loc>
         <lastmod>2020-08-28T18:50:33.539Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -3248,7 +3248,7 @@
     </url>
 
     <url>
-        <loc>https://kb.myetherwallet.com/ko/mewwallet/mewwallet-private-key/</loc>
+        <loc>https://kb.myetherwallet.com/ko/mewwallet/mewwallet-security/</loc>
         <lastmod>2020-08-28T18:50:33.539Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -3264,7 +3264,7 @@
     </url>
 
     <url>
-        <loc>https://kb.myetherwallet.com/ko/mewconnect/mewconnect-101-recover/</loc>
+        <loc>https://kb.myetherwallet.com/ko/mewconnect/mewconnect-101-create/</loc>
         <lastmod>2020-08-28T18:50:33.539Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -3280,7 +3280,7 @@
     </url>
 
     <url>
-        <loc>https://kb.myetherwallet.com/ko/mewconnect/mewconnect-101-create/</loc>
+        <loc>https://kb.myetherwallet.com/ko/mewconnect/mewconnect-101-recover/</loc>
         <lastmod>2020-08-28T18:50:33.539Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -3328,7 +3328,7 @@
     </url>
 
     <url>
-        <loc>https://kb.myetherwallet.com/ko/migration/using-metamask-with-mew/</loc>
+        <loc>https://kb.myetherwallet.com/ko/migration/using-jaxx-with-mew/</loc>
         <lastmod>2020-08-28T18:50:33.539Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -3336,7 +3336,7 @@
     </url>
 
     <url>
-        <loc>https://kb.myetherwallet.com/ko/migration/using-jaxx-with-mew/</loc>
+        <loc>https://kb.myetherwallet.com/ko/migration/using-metamask-with-mew/</loc>
         <lastmod>2020-08-28T18:50:33.539Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -3384,23 +3384,7 @@
     </url>
 
     <url>
-        <loc>https://kb.myetherwallet.com/ko/security-and-privacy/ensuring-mew-doesnt-give-people-same-address/</loc>
-        <lastmod>2020-08-28T18:50:33.539Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
         <loc>https://kb.myetherwallet.com/ko/swap/swapping-via-kyber-bity-changelly/</loc>
-        <lastmod>2020-08-28T18:50:33.539Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://kb.myetherwallet.com/ko/security-and-privacy/private-key-not-working/</loc>
         <lastmod>2020-08-28T18:50:33.539Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -3416,6 +3400,22 @@
     </url>
 
     <url>
+        <loc>https://kb.myetherwallet.com/ko/security-and-privacy/ensuring-mew-doesnt-give-people-same-address/</loc>
+        <lastmod>2020-08-28T18:50:33.539Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://kb.myetherwallet.com/ko/security-and-privacy/private-key-not-working/</loc>
+        <lastmod>2020-08-28T18:50:33.539Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
         <loc>https://kb.myetherwallet.com/ko/security-and-privacy/should-i-keep-eth-on-multiple-addresses/</loc>
         <lastmod>2020-08-28T18:50:33.539Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -3424,7 +3424,7 @@
     </url>
 
     <url>
-        <loc>https://kb.myetherwallet.com/ko/tokens/adding-token-as-a-default/</loc>
+        <loc>https://kb.myetherwallet.com/ko/security-and-privacy/what-to-do-if-youve-had-your-funds-stolen/</loc>
         <lastmod>2020-08-28T18:50:33.539Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -3432,7 +3432,7 @@
     </url>
 
     <url>
-        <loc>https://kb.myetherwallet.com/ko/security-and-privacy/what-to-do-if-youve-had-your-funds-stolen/</loc>
+        <loc>https://kb.myetherwallet.com/ko/tokens/adding-token-as-a-default/</loc>
         <lastmod>2020-08-28T18:50:33.539Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -3480,6 +3480,14 @@
     </url>
 
     <url>
+        <loc>https://kb.myetherwallet.com/ko/transactions/tx-failed-why-was-i-charged/</loc>
+        <lastmod>2020-08-28T18:50:33.539Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
         <loc>https://kb.myetherwallet.com/ko/transactions/not-checksummed/</loc>
         <lastmod>2020-08-28T18:50:33.539Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -3496,135 +3504,7 @@
     </url>
 
     <url>
-        <loc>https://kb.myetherwallet.com/ko/transactions/tx-failed-why-was-i-charged/</loc>
-        <lastmod>2020-08-28T18:50:33.539Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
         <loc>https://kb.myetherwallet.com/ru/dapps/scheduled_tx/</loc>
-        <lastmod>2020-08-28T18:50:33.539Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://kb.myetherwallet.com/ru/getting-started/back-to-the-basics/</loc>
-        <lastmod>2020-08-28T18:50:33.539Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://kb.myetherwallet.com/ru/getting-started/does-mew-support-other-coins/</loc>
-        <lastmod>2020-08-28T18:50:33.539Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://kb.myetherwallet.com/ru/getting-started/checking-your-balance/</loc>
-        <lastmod>2020-08-28T18:50:33.539Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://kb.myetherwallet.com/ru/getting-started/difference-between-mew-and-exchange/</loc>
-        <lastmod>2020-08-28T18:50:33.539Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://kb.myetherwallet.com/ru/getting-started/how-to-create-a-wallet/</loc>
-        <lastmod>2020-08-28T18:50:33.539Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://kb.myetherwallet.com/ru/getting-started/window-blocked/</loc>
-        <lastmod>2020-08-28T18:50:33.539Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://kb.myetherwallet.com/ru/getting-started/using-mewcx/</loc>
-        <lastmod>2020-08-28T18:50:33.539Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://kb.myetherwallet.com/ru/common-issues/not-checksummed/</loc>
-        <lastmod>2020-08-28T18:50:33.539Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://kb.myetherwallet.com/ru/common-issues/insufficient-funds/</loc>
-        <lastmod>2020-08-28T18:50:33.539Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://kb.myetherwallet.com/ru/common-issues/ledger-error-code-5/</loc>
-        <lastmod>2020-08-28T18:50:33.539Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://kb.myetherwallet.com/ru/common-issues/out-of-gas/</loc>
-        <lastmod>2020-08-28T18:50:33.539Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://kb.myetherwallet.com/ru/common-issues/token-already-exists/</loc>
-        <lastmod>2020-08-28T18:50:33.539Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://kb.myetherwallet.com/ru/common-issues/unable-to-locate-corresponding-transfer-event-log/</loc>
-        <lastmod>2020-08-28T18:50:33.539Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://kb.myetherwallet.com/ru/common-issues/window-blocked/</loc>
-        <lastmod>2020-08-28T18:50:33.539Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://kb.myetherwallet.com/ru/common-issues/unable-to-connect-with-hardware-wallet/</loc>
         <lastmod>2020-08-28T18:50:33.539Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -3664,23 +3544,15 @@
     </url>
 
     <url>
-        <loc>https://kb.myetherwallet.com/ru/diving-deeper/what-happens-if-mew-goes-down/</loc>
-        <lastmod>2020-08-28T18:50:33.539Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://kb.myetherwallet.com/ru/mewwallet/mewwallet-private-key/</loc>
-        <lastmod>2020-08-28T18:50:33.539Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
         <loc>https://kb.myetherwallet.com/ru/diving-deeper/using-mew-as-a-pwa/</loc>
+        <lastmod>2020-08-28T18:50:33.539Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://kb.myetherwallet.com/ru/diving-deeper/what-happens-if-mew-goes-down/</loc>
         <lastmod>2020-08-28T18:50:33.539Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -3696,7 +3568,7 @@
     </url>
 
     <url>
-        <loc>https://kb.myetherwallet.com/ru/mewwallet/mewwallet-security/</loc>
+        <loc>https://kb.myetherwallet.com/ru/common-issues/ledger-error-code-5/</loc>
         <lastmod>2020-08-28T18:50:33.539Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -3704,7 +3576,95 @@
     </url>
 
     <url>
-        <loc>https://kb.myetherwallet.com/ru/hardware-wallets/unable-to-connect-with-hardware-wallet/</loc>
+        <loc>https://kb.myetherwallet.com/ru/common-issues/insufficient-funds/</loc>
+        <lastmod>2020-08-28T18:50:33.539Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://kb.myetherwallet.com/ru/common-issues/not-checksummed/</loc>
+        <lastmod>2020-08-28T18:50:33.539Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://kb.myetherwallet.com/ru/common-issues/out-of-gas/</loc>
+        <lastmod>2020-08-28T18:50:33.539Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://kb.myetherwallet.com/ru/common-issues/token-already-exists/</loc>
+        <lastmod>2020-08-28T18:50:33.539Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://kb.myetherwallet.com/ru/common-issues/unable-to-connect-with-hardware-wallet/</loc>
+        <lastmod>2020-08-28T18:50:33.539Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://kb.myetherwallet.com/ru/common-issues/window-blocked/</loc>
+        <lastmod>2020-08-28T18:50:33.539Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://kb.myetherwallet.com/ru/getting-started/back-to-the-basics/</loc>
+        <lastmod>2020-08-28T18:50:33.539Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://kb.myetherwallet.com/ru/common-issues/unable-to-locate-corresponding-transfer-event-log/</loc>
+        <lastmod>2020-08-28T18:50:33.539Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://kb.myetherwallet.com/ru/getting-started/checking-your-balance/</loc>
+        <lastmod>2020-08-28T18:50:33.539Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://kb.myetherwallet.com/ru/getting-started/difference-between-mew-and-exchange/</loc>
+        <lastmod>2020-08-28T18:50:33.539Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://kb.myetherwallet.com/ru/getting-started/does-mew-support-other-coins/</loc>
+        <lastmod>2020-08-28T18:50:33.539Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://kb.myetherwallet.com/ru/getting-started/how-to-create-a-wallet/</loc>
         <lastmod>2020-08-28T18:50:33.539Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -3713,6 +3673,30 @@
 
     <url>
         <loc>https://kb.myetherwallet.com/ru/getting-started/myetherwallet-an-introduction/</loc>
+        <lastmod>2020-08-28T18:50:33.539Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://kb.myetherwallet.com/ru/getting-started/using-mewcx/</loc>
+        <lastmod>2020-08-28T18:50:33.539Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://kb.myetherwallet.com/ru/getting-started/window-blocked/</loc>
+        <lastmod>2020-08-28T18:50:33.539Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://kb.myetherwallet.com/ru/hardware-wallets/unable-to-connect-with-hardware-wallet/</loc>
         <lastmod>2020-08-28T18:50:33.539Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -3744,7 +3728,7 @@
     </url>
 
     <url>
-        <loc>https://kb.myetherwallet.com/ru/migration/using-geth-or-mist-with-mew/</loc>
+        <loc>https://kb.myetherwallet.com/ru/migration/moving-from-exchange-to-mew/</loc>
         <lastmod>2020-08-28T18:50:33.539Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -3752,7 +3736,7 @@
     </url>
 
     <url>
-        <loc>https://kb.myetherwallet.com/ru/migration/moving-from-exchange-to-mew/</loc>
+        <loc>https://kb.myetherwallet.com/ru/migration/using-geth-or-mist-with-mew/</loc>
         <lastmod>2020-08-28T18:50:33.539Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -3768,14 +3752,6 @@
     </url>
 
     <url>
-        <loc>https://kb.myetherwallet.com/ru/mewconnect/mewconnect-101-connect/</loc>
-        <lastmod>2020-08-28T18:50:33.539Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
         <loc>https://kb.myetherwallet.com/ru/migration/using-metamask-with-mew/</loc>
         <lastmod>2020-08-28T18:50:33.539Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -3784,7 +3760,7 @@
     </url>
 
     <url>
-        <loc>https://kb.myetherwallet.com/ru/networks-and-nodes/add-default-network/</loc>
+        <loc>https://kb.myetherwallet.com/ru/mewwallet/mewwallet-private-key/</loc>
         <lastmod>2020-08-28T18:50:33.539Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -3792,7 +3768,15 @@
     </url>
 
     <url>
-        <loc>https://kb.myetherwallet.com/ru/mewconnect/mewconnect-101-create/</loc>
+        <loc>https://kb.myetherwallet.com/ru/mewwallet/mewwallet-security/</loc>
+        <lastmod>2020-08-28T18:50:33.539Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://kb.myetherwallet.com/ru/mewconnect/mewconnect-101-connect/</loc>
         <lastmod>2020-08-28T18:50:33.539Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -3808,7 +3792,7 @@
     </url>
 
     <url>
-        <loc>https://kb.myetherwallet.com/ru/mewconnect/mewconnect-101-recover/</loc>
+        <loc>https://kb.myetherwallet.com/ru/mewconnect/mewconnect-101-create/</loc>
         <lastmod>2020-08-28T18:50:33.539Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -3816,7 +3800,7 @@
     </url>
 
     <url>
-        <loc>https://kb.myetherwallet.com/ru/networks-and-nodes/unable-to-connect-to-custom-node/</loc>
+        <loc>https://kb.myetherwallet.com/ru/mewconnect/mewconnect-101-recover/</loc>
         <lastmod>2020-08-28T18:50:33.539Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -3832,6 +3816,22 @@
     </url>
 
     <url>
+        <loc>https://kb.myetherwallet.com/ru/networks-and-nodes/add-default-network/</loc>
+        <lastmod>2020-08-28T18:50:33.539Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://kb.myetherwallet.com/ru/networks-and-nodes/unable-to-connect-to-custom-node/</loc>
+        <lastmod>2020-08-28T18:50:33.539Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
         <loc>https://kb.myetherwallet.com/ru/offline/offline_transaction/</loc>
         <lastmod>2020-08-28T18:50:33.539Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -3840,7 +3840,7 @@
     </url>
 
     <url>
-        <loc>https://kb.myetherwallet.com/ru/private-keys-and-passwords/private-key-not-working/</loc>
+        <loc>https://kb.myetherwallet.com/zh/diving-deeper/does-mew-api-limit-amount-of-requests/</loc>
         <lastmod>2020-08-28T18:50:33.535Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -3848,7 +3848,7 @@
     </url>
 
     <url>
-        <loc>https://kb.myetherwallet.com/ru/private-keys-and-passwords/lost-private-key/</loc>
+        <loc>https://kb.myetherwallet.com/zh/diving-deeper/does-mew-have-an-api/</loc>
         <lastmod>2020-08-28T18:50:33.535Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -3856,7 +3856,7 @@
     </url>
 
     <url>
-        <loc>https://kb.myetherwallet.com/ru/security-and-privacy/mnemonic-phrase-password/</loc>
+        <loc>https://kb.myetherwallet.com/zh/diving-deeper/how-to-interact-with-multisig-contract/</loc>
         <lastmod>2020-08-28T18:50:33.535Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -3864,7 +3864,7 @@
     </url>
 
     <url>
-        <loc>https://kb.myetherwallet.com/ru/security-and-privacy/ensuring-mew-doesnt-give-people-same-address/</loc>
+        <loc>https://kb.myetherwallet.com/zh/diving-deeper/how-to-submit-pull-request/</loc>
         <lastmod>2020-08-28T18:50:33.535Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -3872,7 +3872,7 @@
     </url>
 
     <url>
-        <loc>https://kb.myetherwallet.com/ru/security-and-privacy/lost-private-key/</loc>
+        <loc>https://kb.myetherwallet.com/zh/diving-deeper/what-happens-if-mew-goes-down/</loc>
         <lastmod>2020-08-28T18:50:33.535Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -3880,7 +3880,7 @@
     </url>
 
     <url>
-        <loc>https://kb.myetherwallet.com/ru/security-and-privacy/private-key-not-working/</loc>
+        <loc>https://kb.myetherwallet.com/zh/diving-deeper/using-mew-as-a-pwa/</loc>
         <lastmod>2020-08-28T18:50:33.535Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -3888,143 +3888,7 @@
     </url>
 
     <url>
-        <loc>https://kb.myetherwallet.com/ru/security-and-privacy/should-i-keep-eth-on-multiple-addresses/</loc>
-        <lastmod>2020-08-28T18:50:33.535Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://kb.myetherwallet.com/ru/security-and-privacy/what-to-do-if-youve-had-your-funds-stolen/</loc>
-        <lastmod>2020-08-28T18:50:33.535Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://kb.myetherwallet.com/ru/tokens/random-tokens-in-my-wallet/</loc>
-        <lastmod>2020-08-28T18:50:33.535Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://kb.myetherwallet.com/ru/tokens/what-is-an-ico/</loc>
-        <lastmod>2020-08-28T18:50:33.535Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://kb.myetherwallet.com/ru/swap/buy-eth-via-simplex/</loc>
-        <lastmod>2020-08-28T18:50:33.535Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://kb.myetherwallet.com/ru/transactions/eth-tokens-haven%27t-shown-up-from-exchange/</loc>
-        <lastmod>2020-08-28T18:50:33.535Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://kb.myetherwallet.com/ru/swap/swap-canceled-or-not-completed/</loc>
-        <lastmod>2020-08-28T18:50:33.535Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://kb.myetherwallet.com/ru/transactions/internal-transactions/</loc>
-        <lastmod>2020-08-28T18:50:33.535Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://kb.myetherwallet.com/ru/transactions/insufficient-funds/</loc>
-        <lastmod>2020-08-28T18:50:33.535Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://kb.myetherwallet.com/ru/swap/swapping-via-kyber-bity-changelly/</loc>
-        <lastmod>2020-08-28T18:50:33.535Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://kb.myetherwallet.com/ru/transactions/mew-minimum-requirement-for-sending/</loc>
-        <lastmod>2020-08-28T18:50:33.535Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://kb.myetherwallet.com/ru/transactions/tx-failed-why-was-i-charged/</loc>
-        <lastmod>2020-08-28T18:50:33.535Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://kb.myetherwallet.com/ru/transactions/not-checksummed/</loc>
-        <lastmod>2020-08-28T18:50:33.535Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://kb.myetherwallet.com/ru/transactions/what-is-nonce/</loc>
-        <lastmod>2020-08-28T18:50:33.535Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://kb.myetherwallet.com/zh/dapps/aave/</loc>
-        <lastmod>2020-08-28T18:50:33.535Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://kb.myetherwallet.com/ru/tokens/adding-token-as-a-default/</loc>
-        <lastmod>2020-08-28T18:50:33.535Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://kb.myetherwallet.com/zh/dapps/ambrpay/</loc>
-        <lastmod>2020-08-28T18:50:33.535Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://kb.myetherwallet.com/zh/dapps/scheduled_tx/</loc>
+        <loc>https://kb.myetherwallet.com/zh/diving-deeper/what-is-a-smart-contract/</loc>
         <lastmod>2020-08-28T18:50:33.535Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -4033,14 +3897,6 @@
 
     <url>
         <loc>https://kb.myetherwallet.com/zh/getting-started/back-to-the-basics/</loc>
-        <lastmod>2020-08-28T18:50:33.535Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://kb.myetherwallet.com/zh/getting-started/difference-between-mew-and-exchange/</loc>
         <lastmod>2020-08-28T18:50:33.535Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -4064,23 +3920,7 @@
     </url>
 
     <url>
-        <loc>https://kb.myetherwallet.com/zh/getting-started/how-to-create-a-wallet/</loc>
-        <lastmod>2020-08-28T18:50:33.535Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://kb.myetherwallet.com/zh/mewconnect/mewconnect-101-connect/</loc>
-        <lastmod>2020-08-28T18:50:33.535Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://kb.myetherwallet.com/zh/getting-started/window-blocked/</loc>
+        <loc>https://kb.myetherwallet.com/zh/getting-started/difference-between-mew-and-exchange/</loc>
         <lastmod>2020-08-28T18:50:33.535Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -4096,6 +3936,14 @@
     </url>
 
     <url>
+        <loc>https://kb.myetherwallet.com/zh/getting-started/how-to-create-a-wallet/</loc>
+        <lastmod>2020-08-28T18:50:33.535Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
         <loc>https://kb.myetherwallet.com/zh/getting-started/using-mewcx/</loc>
         <lastmod>2020-08-28T18:50:33.535Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -4104,7 +3952,7 @@
     </url>
 
     <url>
-        <loc>https://kb.myetherwallet.com/zh/mewconnect/mewconnect-101-create/</loc>
+        <loc>https://kb.myetherwallet.com/zh/getting-started/window-blocked/</loc>
         <lastmod>2020-08-28T18:50:33.535Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -4112,7 +3960,47 @@
     </url>
 
     <url>
-        <loc>https://kb.myetherwallet.com/zh/mewconnect/mewconnect-101-recover/</loc>
+        <loc>https://kb.myetherwallet.com/zh/dapps/aave/</loc>
+        <lastmod>2020-08-28T18:50:33.535Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://kb.myetherwallet.com/zh/dapps/ambrpay/</loc>
+        <lastmod>2020-08-28T18:50:33.535Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://kb.myetherwallet.com/zh/dapps/scheduled_tx/</loc>
+        <lastmod>2020-08-28T18:50:33.535Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://kb.myetherwallet.com/zh/hardware-wallets/unable-to-connect-with-hardware-wallet/</loc>
+        <lastmod>2020-08-28T18:50:33.535Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://kb.myetherwallet.com/zh/mewconnect/mewconnect-101-connect/</loc>
+        <lastmod>2020-08-28T18:50:33.535Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://kb.myetherwallet.com/zh/mewconnect/mewconnect-101-create/</loc>
         <lastmod>2020-08-28T18:50:33.535Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -4136,127 +4024,7 @@
     </url>
 
     <url>
-        <loc>https://kb.myetherwallet.com/zh/hardware-wallets/unable-to-connect-with-hardware-wallet/</loc>
-        <lastmod>2020-08-28T18:50:33.535Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://kb.myetherwallet.com/zh/diving-deeper/does-mew-api-limit-amount-of-requests/</loc>
-        <lastmod>2020-08-28T18:50:33.535Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://kb.myetherwallet.com/zh/diving-deeper/how-to-submit-pull-request/</loc>
-        <lastmod>2020-08-28T18:50:33.535Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://kb.myetherwallet.com/zh/diving-deeper/how-to-interact-with-multisig-contract/</loc>
-        <lastmod>2020-08-28T18:50:33.535Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://kb.myetherwallet.com/zh/diving-deeper/does-mew-have-an-api/</loc>
-        <lastmod>2020-08-28T18:50:33.535Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://kb.myetherwallet.com/zh/diving-deeper/using-mew-as-a-pwa/</loc>
-        <lastmod>2020-08-28T18:50:33.535Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://kb.myetherwallet.com/zh/mewwallet/mewwallet-private-key/</loc>
-        <lastmod>2020-08-28T18:50:33.535Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://kb.myetherwallet.com/zh/mewwallet/mewwallet-security/</loc>
-        <lastmod>2020-08-28T18:50:33.535Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://kb.myetherwallet.com/zh/diving-deeper/what-is-a-smart-contract/</loc>
-        <lastmod>2020-08-28T18:50:33.535Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://kb.myetherwallet.com/zh/diving-deeper/what-happens-if-mew-goes-down/</loc>
-        <lastmod>2020-08-28T18:50:33.535Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://kb.myetherwallet.com/zh/migration/importing-vintagemew-to-mew/</loc>
-        <lastmod>2020-08-28T18:50:33.535Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://kb.myetherwallet.com/zh/migration/moving-from-exchange-to-mew/</loc>
-        <lastmod>2020-08-28T18:50:33.535Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://kb.myetherwallet.com/zh/migration/importing-v2-json-file/</loc>
-        <lastmod>2020-08-28T18:50:33.535Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://kb.myetherwallet.com/zh/migration/using-geth-or-mist-with-mew/</loc>
-        <lastmod>2020-08-28T18:50:33.535Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://kb.myetherwallet.com/zh/migration/using-metamask-with-mew/</loc>
-        <lastmod>2020-08-28T18:50:33.535Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://kb.myetherwallet.com/zh/migration/using-jaxx-with-mew/</loc>
+        <loc>https://kb.myetherwallet.com/zh/mewconnect/mewconnect-101-recover/</loc>
         <lastmod>2020-08-28T18:50:33.535Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -4280,7 +4048,15 @@
     </url>
 
     <url>
-        <loc>https://kb.myetherwallet.com/zh/security-and-privacy/lost-private-key/</loc>
+        <loc>https://kb.myetherwallet.com/zh/mewwallet/mewwallet-private-key/</loc>
+        <lastmod>2020-08-28T18:50:33.535Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://kb.myetherwallet.com/zh/mewwallet/mewwallet-security/</loc>
         <lastmod>2020-08-28T18:50:33.535Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -4289,6 +4065,14 @@
 
     <url>
         <loc>https://kb.myetherwallet.com/zh/security-and-privacy/ensuring-mew-doesnt-give-people-same-address/</loc>
+        <lastmod>2020-08-28T18:50:33.535Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://kb.myetherwallet.com/zh/security-and-privacy/lost-private-key/</loc>
         <lastmod>2020-08-28T18:50:33.535Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -4320,7 +4104,79 @@
     </url>
 
     <url>
+        <loc>https://kb.myetherwallet.com/zh/migration/importing-v2-json-file/</loc>
+        <lastmod>2020-08-28T18:50:33.535Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://kb.myetherwallet.com/zh/migration/importing-vintagemew-to-mew/</loc>
+        <lastmod>2020-08-28T18:50:33.535Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://kb.myetherwallet.com/zh/migration/moving-from-exchange-to-mew/</loc>
+        <lastmod>2020-08-28T18:50:33.535Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://kb.myetherwallet.com/zh/migration/using-geth-or-mist-with-mew/</loc>
+        <lastmod>2020-08-28T18:50:33.535Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://kb.myetherwallet.com/zh/migration/using-jaxx-with-mew/</loc>
+        <lastmod>2020-08-28T18:50:33.535Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://kb.myetherwallet.com/zh/migration/using-metamask-with-mew/</loc>
+        <lastmod>2020-08-28T18:50:33.535Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://kb.myetherwallet.com/zh/swap/buy-eth-via-simplex/</loc>
+        <lastmod>2020-08-28T18:50:33.535Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://kb.myetherwallet.com/zh/swap/swap-canceled-or-not-completed/</loc>
+        <lastmod>2020-08-28T18:50:33.535Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
         <loc>https://kb.myetherwallet.com/zh/tokens/adding-token-as-a-default/</loc>
+        <lastmod>2020-08-28T18:50:33.535Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://kb.myetherwallet.com/zh/swap/swapping-via-kyber-bity-changelly/</loc>
         <lastmod>2020-08-28T18:50:33.535Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -4352,6 +4208,14 @@
     </url>
 
     <url>
+        <loc>https://kb.myetherwallet.com/zh/transactions/internal-transactions/</loc>
+        <lastmod>2020-08-28T18:50:33.535Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
         <loc>https://kb.myetherwallet.com/zh/transactions/mew-minimum-requirement-for-sending/</loc>
         <lastmod>2020-08-28T18:50:33.535Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -4368,14 +4232,6 @@
     </url>
 
     <url>
-        <loc>https://kb.myetherwallet.com/zh/transactions/internal-transactions/</loc>
-        <lastmod>2020-08-28T18:50:33.535Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
         <loc>https://kb.myetherwallet.com/zh/transactions/tx-failed-why-was-i-charged/</loc>
         <lastmod>2020-08-28T18:50:33.535Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -4384,7 +4240,7 @@
     </url>
 
     <url>
-        <loc>https://kb.myetherwallet.com/zh/swap/buy-eth-via-simplex/</loc>
+        <loc>https://kb.myetherwallet.com/ru/private-keys-and-passwords/lost-private-key/</loc>
         <lastmod>2020-08-28T18:50:33.535Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -4392,7 +4248,7 @@
     </url>
 
     <url>
-        <loc>https://kb.myetherwallet.com/zh/swap/swapping-via-kyber-bity-changelly/</loc>
+        <loc>https://kb.myetherwallet.com/ru/private-keys-and-passwords/private-key-not-working/</loc>
         <lastmod>2020-08-28T18:50:33.535Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -4400,7 +4256,151 @@
     </url>
 
     <url>
-        <loc>https://kb.myetherwallet.com/zh/swap/swap-canceled-or-not-completed/</loc>
+        <loc>https://kb.myetherwallet.com/ru/tokens/adding-token-as-a-default/</loc>
+        <lastmod>2020-08-28T18:50:33.535Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://kb.myetherwallet.com/ru/tokens/random-tokens-in-my-wallet/</loc>
+        <lastmod>2020-08-28T18:50:33.535Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://kb.myetherwallet.com/ru/tokens/what-is-an-ico/</loc>
+        <lastmod>2020-08-28T18:50:33.535Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://kb.myetherwallet.com/ru/security-and-privacy/ensuring-mew-doesnt-give-people-same-address/</loc>
+        <lastmod>2020-08-28T18:50:33.535Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://kb.myetherwallet.com/ru/security-and-privacy/lost-private-key/</loc>
+        <lastmod>2020-08-28T18:50:33.535Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://kb.myetherwallet.com/ru/security-and-privacy/mnemonic-phrase-password/</loc>
+        <lastmod>2020-08-28T18:50:33.535Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://kb.myetherwallet.com/ru/security-and-privacy/private-key-not-working/</loc>
+        <lastmod>2020-08-28T18:50:33.535Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://kb.myetherwallet.com/ru/security-and-privacy/should-i-keep-eth-on-multiple-addresses/</loc>
+        <lastmod>2020-08-28T18:50:33.535Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://kb.myetherwallet.com/ru/security-and-privacy/what-to-do-if-youve-had-your-funds-stolen/</loc>
+        <lastmod>2020-08-28T18:50:33.535Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://kb.myetherwallet.com/ru/swap/buy-eth-via-simplex/</loc>
+        <lastmod>2020-08-28T18:50:33.535Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://kb.myetherwallet.com/ru/swap/swap-canceled-or-not-completed/</loc>
+        <lastmod>2020-08-28T18:50:33.535Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://kb.myetherwallet.com/ru/swap/swapping-via-kyber-bity-changelly/</loc>
+        <lastmod>2020-08-28T18:50:33.535Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://kb.myetherwallet.com/ru/transactions/eth-tokens-haven%27t-shown-up-from-exchange/</loc>
+        <lastmod>2020-08-28T18:50:33.535Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://kb.myetherwallet.com/ru/transactions/insufficient-funds/</loc>
+        <lastmod>2020-08-28T18:50:33.535Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://kb.myetherwallet.com/ru/transactions/internal-transactions/</loc>
+        <lastmod>2020-08-28T18:50:33.535Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://kb.myetherwallet.com/ru/transactions/mew-minimum-requirement-for-sending/</loc>
+        <lastmod>2020-08-28T18:50:33.535Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://kb.myetherwallet.com/ru/transactions/not-checksummed/</loc>
+        <lastmod>2020-08-28T18:50:33.535Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://kb.myetherwallet.com/ru/transactions/tx-failed-why-was-i-charged/</loc>
+        <lastmod>2020-08-28T18:50:33.535Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://kb.myetherwallet.com/ru/transactions/what-is-nonce/</loc>
         <lastmod>2020-08-28T18:50:33.535Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>

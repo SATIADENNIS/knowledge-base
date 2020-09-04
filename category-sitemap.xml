@@ -29,13 +29,6 @@
     </url>
 
     <url>
-        <loc>https://kb.myetherwallet.com/categories/token/</loc>
-        <lastmod>2020-08-28T18:50:52.828Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://kb.myetherwallet.com/categories/security-and-privacy/</loc>
         <lastmod>2020-08-28T18:50:52.828Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -43,7 +36,7 @@
     </url>
 
     <url>
-        <loc>https://kb.myetherwallet.com/categories/networks-and-nodes/</loc>
+        <loc>https://kb.myetherwallet.com/categories/token/</loc>
         <lastmod>2020-08-28T18:50:52.828Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -51,6 +44,13 @@
 
     <url>
         <loc>https://kb.myetherwallet.com/categories/offline/</loc>
+        <lastmod>2020-08-28T18:50:52.828Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://kb.myetherwallet.com/categories/networks-and-nodes/</loc>
         <lastmod>2020-08-28T18:50:52.828Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -71,20 +71,6 @@
     </url>
 
     <url>
-        <loc>https://kb.myetherwallet.com/categories/mewconnect/</loc>
-        <lastmod>2020-08-28T18:50:52.828Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://kb.myetherwallet.com/categories/dapps/</loc>
-        <lastmod>2020-08-28T18:50:52.828Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://kb.myetherwallet.com/categories/get-started/</loc>
         <lastmod>2020-08-28T18:50:52.828Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -93,6 +79,20 @@
 
     <url>
         <loc>https://kb.myetherwallet.com/categories/faqs/</loc>
+        <lastmod>2020-08-28T18:50:52.828Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://kb.myetherwallet.com/categories/mewconnect/</loc>
+        <lastmod>2020-08-28T18:50:52.828Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://kb.myetherwallet.com/categories/dapps/</loc>
         <lastmod>2020-08-28T18:50:52.828Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>

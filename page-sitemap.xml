@@ -22,7 +22,7 @@
     </url>
     
     <url>
-        <loc>https://kb.myetherwallet.com/en/videos/</loc>
+        <loc>https://kb.myetherwallet.com/en/faqs/</loc>
         <lastmod>2020-08-28T18:50:33.535Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
@@ -36,14 +36,7 @@
     </url>
     
     <url>
-        <loc>https://kb.myetherwallet.com/en/faqs/</loc>
-        <lastmod>2020-08-28T18:50:33.535Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.8</priority>
-    </url>
-    
-    <url>
-        <loc>https://kb.myetherwallet.com/ru/faqs/</loc>
+        <loc>https://kb.myetherwallet.com/en/videos/</loc>
         <lastmod>2020-08-28T18:50:33.535Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
@@ -58,6 +51,13 @@
     
     <url>
         <loc>https://kb.myetherwallet.com/ru/videos/</loc>
+        <lastmod>2020-08-28T18:50:33.535Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>https://kb.myetherwallet.com/ru/faqs/</loc>
         <lastmod>2020-08-28T18:50:33.535Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
