@@ -8,14 +8,14 @@
     </url>
 
     <url>
-        <loc>https://kb.myetherwallet.com/categories/transactions/</loc>
-        <lastmod>2020-11-11T20:32:17.483Z</lastmod>
+        <loc>https://kb.myetherwallet.com/categories/mewconnect/</loc>
+        <lastmod>2020-11-16T22:01:31.109Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://kb.myetherwallet.com/categories/security-and-privacy/</loc>
+        <loc>https://kb.myetherwallet.com/categories/transactions/</loc>
         <lastmod>2020-11-11T20:32:17.483Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -36,14 +36,14 @@
     </url>
 
     <url>
-        <loc>https://kb.myetherwallet.com/categories/offline/</loc>
+        <loc>https://kb.myetherwallet.com/categories/security-and-privacy/</loc>
         <lastmod>2020-11-11T20:32:17.483Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://kb.myetherwallet.com/categories/networks-and-nodes/</loc>
+        <loc>https://kb.myetherwallet.com/categories/offline/</loc>
         <lastmod>2020-11-11T20:32:17.483Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -57,6 +57,13 @@
     </url>
 
     <url>
+        <loc>https://kb.myetherwallet.com/categories/networks-and-nodes/</loc>
+        <lastmod>2020-11-11T20:32:17.483Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
         <loc>https://kb.myetherwallet.com/categories/migration/</loc>
         <lastmod>2020-11-11T20:32:17.483Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -64,7 +71,7 @@
     </url>
 
     <url>
-        <loc>https://kb.myetherwallet.com/categories/mewconnect/</loc>
+        <loc>https://kb.myetherwallet.com/categories/hardware-wallets/</loc>
         <lastmod>2020-11-11T20:32:17.483Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -72,13 +79,6 @@
 
     <url>
         <loc>https://kb.myetherwallet.com/categories/get-started/</loc>
-        <lastmod>2020-11-11T20:32:17.483Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://kb.myetherwallet.com/categories/hardware-wallets/</loc>
         <lastmod>2020-11-11T20:32:17.483Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
