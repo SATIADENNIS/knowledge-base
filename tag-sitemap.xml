@@ -66,6 +66,48 @@
     </url>
 
     <url>
+        <loc>https://kb.myetherwallet.com/tags/addresses/</loc>
+        <lastmod>2020-11-17T01:55:53.901Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://kb.myetherwallet.com/tags/multiple/</loc>
+        <lastmod>2020-11-17T01:55:53.901Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://kb.myetherwallet.com/tags/Tokens/</loc>
+        <lastmod>2020-11-17T01:55:53.901Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://kb.myetherwallet.com/tags/erc20/</loc>
+        <lastmod>2020-11-17T01:55:53.901Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://kb.myetherwallet.com/tags/erc/</loc>
+        <lastmod>2020-11-17T01:55:53.901Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://kb.myetherwallet.com/tags/eth/</loc>
+        <lastmod>2020-11-17T01:55:53.901Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
         <loc>https://kb.myetherwallet.com/tags/Password/</loc>
         <lastmod>2020-11-17T01:55:53.901Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -88,34 +130,6 @@
 
     <url>
         <loc>https://kb.myetherwallet.com/tags/Keystore/</loc>
-        <lastmod>2020-11-17T01:55:53.901Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://kb.myetherwallet.com/tags/addresses/</loc>
-        <lastmod>2020-11-17T01:55:53.901Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://kb.myetherwallet.com/tags/multiple/</loc>
-        <lastmod>2020-11-17T01:55:53.901Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://kb.myetherwallet.com/tags/Tokens/</loc>
-        <lastmod>2020-11-17T01:55:53.901Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://kb.myetherwallet.com/tags/erc/</loc>
         <lastmod>2020-11-17T01:55:53.901Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -206,13 +220,6 @@
     </url>
 
     <url>
-        <loc>https://kb.myetherwallet.com/tags/address/</loc>
-        <lastmod>2020-11-17T01:55:53.901Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://kb.myetherwallet.com/tags/lost/</loc>
         <lastmod>2020-11-17T01:55:53.901Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -220,14 +227,7 @@
     </url>
 
     <url>
-        <loc>https://kb.myetherwallet.com/tags/erc20/</loc>
-        <lastmod>2020-11-17T01:55:53.901Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://kb.myetherwallet.com/tags/eth/</loc>
+        <loc>https://kb.myetherwallet.com/tags/address/</loc>
         <lastmod>2020-11-17T01:55:53.901Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -235,27 +235,6 @@
 
     <url>
         <loc>https://kb.myetherwallet.com/tags/unable/</loc>
-        <lastmod>2020-11-17T01:55:53.901Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://kb.myetherwallet.com/tags/etc/</loc>
-        <lastmod>2020-11-17T01:55:53.901Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://kb.myetherwallet.com/tags/ropsten/</loc>
-        <lastmod>2020-11-17T01:55:53.901Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://kb.myetherwallet.com/tags/change/</loc>
         <lastmod>2020-11-17T01:55:53.901Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -276,6 +255,20 @@
     </url>
 
     <url>
+        <loc>https://kb.myetherwallet.com/tags/etc/</loc>
+        <lastmod>2020-11-17T01:55:53.901Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://kb.myetherwallet.com/tags/ropsten/</loc>
+        <lastmod>2020-11-17T01:55:53.901Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
         <loc>https://kb.myetherwallet.com/tags/networks/</loc>
         <lastmod>2020-11-17T01:55:53.901Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -284,6 +277,13 @@
 
     <url>
         <loc>https://kb.myetherwallet.com/tags/network/</loc>
+        <lastmod>2020-11-17T01:55:53.901Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://kb.myetherwallet.com/tags/change/</loc>
         <lastmod>2020-11-17T01:55:53.901Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -304,14 +304,14 @@
     </url>
 
     <url>
-        <loc>https://kb.myetherwallet.com/tags/mist/</loc>
+        <loc>https://kb.myetherwallet.com/tags/vintage/</loc>
         <lastmod>2020-11-17T01:55:53.901Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://kb.myetherwallet.com/tags/geth/</loc>
+        <loc>https://kb.myetherwallet.com/tags/mew-v5/</loc>
         <lastmod>2020-11-17T01:55:53.901Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -332,14 +332,14 @@
     </url>
 
     <url>
-        <loc>https://kb.myetherwallet.com/tags/vintage/</loc>
+        <loc>https://kb.myetherwallet.com/tags/mist/</loc>
         <lastmod>2020-11-17T01:55:53.901Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://kb.myetherwallet.com/tags/mew-v5/</loc>
+        <loc>https://kb.myetherwallet.com/tags/geth/</loc>
         <lastmod>2020-11-17T01:55:53.901Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -444,14 +444,14 @@
     </url>
 
     <url>
-        <loc>https://kb.myetherwallet.com/tags/trezor/</loc>
+        <loc>https://kb.myetherwallet.com/tags/Secalot/</loc>
         <lastmod>2020-11-17T01:55:53.901Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://kb.myetherwallet.com/tags/Secalot/</loc>
+        <loc>https://kb.myetherwallet.com/tags/trezor/</loc>
         <lastmod>2020-11-17T01:55:53.901Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -472,6 +472,13 @@
     </url>
 
     <url>
+        <loc>https://kb.myetherwallet.com/tags/node/</loc>
+        <lastmod>2020-11-17T01:55:53.901Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
         <loc>https://kb.myetherwallet.com/tags/path/</loc>
         <lastmod>2020-11-17T01:55:53.901Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -480,13 +487,6 @@
 
     <url>
         <loc>https://kb.myetherwallet.com/tags/derivation/</loc>
-        <lastmod>2020-11-17T01:55:53.901Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://kb.myetherwallet.com/tags/node/</loc>
         <lastmod>2020-11-17T01:55:53.901Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -514,7 +514,7 @@
     </url>
 
     <url>
-        <loc>https://kb.myetherwallet.com/tags/BC-Vault/</loc>
+        <loc>https://kb.myetherwallet.com/tags/connect/</loc>
         <lastmod>2020-11-17T01:55:53.901Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -528,7 +528,7 @@
     </url>
 
     <url>
-        <loc>https://kb.myetherwallet.com/tags/connect/</loc>
+        <loc>https://kb.myetherwallet.com/tags/BC-Vault/</loc>
         <lastmod>2020-11-17T01:55:53.901Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -626,27 +626,6 @@
     </url>
 
     <url>
-        <loc>https://kb.myetherwallet.com/tags/coins/</loc>
-        <lastmod>2020-11-17T01:55:53.901Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://kb.myetherwallet.com/tags/coin/</loc>
-        <lastmod>2020-11-17T01:55:53.901Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://kb.myetherwallet.com/tags/btc/</loc>
-        <lastmod>2020-11-17T01:55:53.901Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://kb.myetherwallet.com/tags/binance/</loc>
         <lastmod>2020-11-17T01:55:53.901Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -683,6 +662,27 @@
 
     <url>
         <loc>https://kb.myetherwallet.com/tags/difference/</loc>
+        <lastmod>2020-11-17T01:55:53.901Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://kb.myetherwallet.com/tags/coins/</loc>
+        <lastmod>2020-11-17T01:55:53.901Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://kb.myetherwallet.com/tags/coin/</loc>
+        <lastmod>2020-11-17T01:55:53.901Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://kb.myetherwallet.com/tags/btc/</loc>
         <lastmod>2020-11-17T01:55:53.901Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -752,27 +752,6 @@
     </url>
 
     <url>
-        <loc>https://kb.myetherwallet.com/tags/request/</loc>
-        <lastmod>2020-11-17T01:55:53.901Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://kb.myetherwallet.com/tags/pull/</loc>
-        <lastmod>2020-11-17T01:55:53.901Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://kb.myetherwallet.com/tags/submit/</loc>
-        <lastmod>2020-11-17T01:55:53.901Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://kb.myetherwallet.com/tags/down/</loc>
         <lastmod>2020-11-17T01:55:53.901Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -795,6 +774,27 @@
 
     <url>
         <loc>https://kb.myetherwallet.com/tags/faqs/</loc>
+        <lastmod>2020-11-17T01:55:53.901Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://kb.myetherwallet.com/tags/request/</loc>
+        <lastmod>2020-11-17T01:55:53.901Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://kb.myetherwallet.com/tags/pull/</loc>
+        <lastmod>2020-11-17T01:55:53.901Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://kb.myetherwallet.com/tags/submit/</loc>
         <lastmod>2020-11-17T01:55:53.901Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -844,20 +844,6 @@
 
     <url>
         <loc>https://kb.myetherwallet.com/tags/makerdao/</loc>
-        <lastmod>2020-11-17T01:55:53.901Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://kb.myetherwallet.com/tags/auctions/</loc>
-        <lastmod>2020-11-17T01:55:53.901Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://kb.myetherwallet.com/tags/auction/</loc>
         <lastmod>2020-11-17T01:55:53.901Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -921,6 +907,20 @@
 
     <url>
         <loc>https://kb.myetherwallet.com/tags/dapp/</loc>
+        <lastmod>2020-11-17T01:55:53.901Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://kb.myetherwallet.com/tags/auctions/</loc>
+        <lastmod>2020-11-17T01:55:53.901Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://kb.myetherwallet.com/tags/auction/</loc>
         <lastmod>2020-11-17T01:55:53.901Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -1137,6 +1137,27 @@
     </url>
 
     <url>
+        <loc>https://kb.myetherwallet.com/tags/%D0%B7%D0%B0%D0%BF%D1%80%D0%BE%D1%81/</loc>
+        <lastmod>2020-11-17T01:55:53.897Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://kb.myetherwallet.com/tags/%D0%B2%D0%BA%D0%BB%D1%8E%D1%87%D0%B5%D0%BD%D0%B8%D0%B5-%D0%B8%D0%B7%D0%BC%D0%B5%D0%BD%D0%B5%D0%BD%D0%B8%D0%B9/</loc>
+        <lastmod>2020-11-17T01:55:53.897Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://kb.myetherwallet.com/tags/%D0%BE%D1%82%D0%BF%D1%80%D0%B0%D0%B2%D0%B8%D1%82%D1%8C/</loc>
+        <lastmod>2020-11-17T01:55:53.897Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
         <loc>https://kb.myetherwallet.com/tags/%D0%B2%D0%BD%D0%B8%D0%B7/</loc>
         <lastmod>2020-11-17T01:55:53.897Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -1159,27 +1180,6 @@
 
     <url>
         <loc>https://kb.myetherwallet.com/tags/%D0%A7%D0%97%D0%92/</loc>
-        <lastmod>2020-11-17T01:55:53.897Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://kb.myetherwallet.com/tags/%D0%B7%D0%B0%D0%BF%D1%80%D0%BE%D1%81/</loc>
-        <lastmod>2020-11-17T01:55:53.897Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://kb.myetherwallet.com/tags/%D0%B2%D0%BA%D0%BB%D1%8E%D1%87%D0%B5%D0%BD%D0%B8%D0%B5-%D0%B8%D0%B7%D0%BC%D0%B5%D0%BD%D0%B5%D0%BD%D0%B8%D0%B9/</loc>
-        <lastmod>2020-11-17T01:55:53.897Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://kb.myetherwallet.com/tags/%D0%BE%D1%82%D0%BF%D1%80%D0%B0%D0%B2%D0%B8%D1%82%D1%8C/</loc>
         <lastmod>2020-11-17T01:55:53.897Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -1284,13 +1284,6 @@
     </url>
 
     <url>
-        <loc>https://kb.myetherwallet.com/tags/%D1%82%D0%BE%D0%BA%D0%B5%D0%BD/</loc>
-        <lastmod>2020-11-17T01:55:53.897Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://kb.myetherwallet.com/tags/%D0%BA%D0%BE%D1%88%D0%B5%D0%BB%D0%B5%D0%BA/</loc>
         <lastmod>2020-11-17T01:55:53.897Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -1306,6 +1299,13 @@
 
     <url>
         <loc>https://kb.myetherwallet.com/tags/%D0%BF%D0%BE%D0%B4%D0%BA%D0%BB%D1%8E%D1%87%D0%B8%D1%82%D1%8C%D1%81%D1%8F/</loc>
+        <lastmod>2020-11-17T01:55:53.897Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://kb.myetherwallet.com/tags/%D1%82%D0%BE%D0%BA%D0%B5%D0%BD/</loc>
         <lastmod>2020-11-17T01:55:53.897Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -1382,6 +1382,55 @@
     </url>
 
     <url>
+        <loc>https://kb.myetherwallet.com/tags/Ethereum/</loc>
+        <lastmod>2020-11-17T01:55:53.897Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://kb.myetherwallet.com/tags/internal/</loc>
+        <lastmod>2020-11-17T01:55:53.897Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://kb.myetherwallet.com/tags/checksum/</loc>
+        <lastmod>2020-11-17T01:55:53.897Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://kb.myetherwallet.com/tags/checksummed/</loc>
+        <lastmod>2020-11-17T01:55:53.897Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://kb.myetherwallet.com/tags/forever/</loc>
+        <lastmod>2020-11-17T01:55:53.897Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://kb.myetherwallet.com/tags/pending/</loc>
+        <lastmod>2020-11-17T01:55:53.897Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://kb.myetherwallet.com/tags/found/</loc>
+        <lastmod>2020-11-17T01:55:53.897Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
         <loc>https://kb.myetherwallet.com/tags/charge/</loc>
         <lastmod>2020-11-17T01:55:53.897Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -1410,35 +1459,14 @@
     </url>
 
     <url>
-        <loc>https://kb.myetherwallet.com/tags/forever/</loc>
+        <loc>https://kb.myetherwallet.com/tags/transactions/</loc>
         <lastmod>2020-11-17T01:55:53.897Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://kb.myetherwallet.com/tags/pending/</loc>
-        <lastmod>2020-11-17T01:55:53.897Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://kb.myetherwallet.com/tags/found/</loc>
-        <lastmod>2020-11-17T01:55:53.897Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://kb.myetherwallet.com/tags/checksum/</loc>
-        <lastmod>2020-11-17T01:55:53.897Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://kb.myetherwallet.com/tags/checksummed/</loc>
+        <loc>https://kb.myetherwallet.com/tags/sending/</loc>
         <lastmod>2020-11-17T01:55:53.897Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -1459,28 +1487,7 @@
     </url>
 
     <url>
-        <loc>https://kb.myetherwallet.com/tags/Ethereum/</loc>
-        <lastmod>2020-11-17T01:55:53.897Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://kb.myetherwallet.com/tags/sending/</loc>
-        <lastmod>2020-11-17T01:55:53.897Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://kb.myetherwallet.com/tags/internal/</loc>
-        <lastmod>2020-11-17T01:55:53.897Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://kb.myetherwallet.com/tags/transactions/</loc>
+        <loc>https://kb.myetherwallet.com/tags/send/</loc>
         <lastmod>2020-11-17T01:55:53.897Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -1488,13 +1495,6 @@
 
     <url>
         <loc>https://kb.myetherwallet.com/tags/insufficient/</loc>
-        <lastmod>2020-11-17T01:55:53.897Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://kb.myetherwallet.com/tags/send/</loc>
         <lastmod>2020-11-17T01:55:53.897Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -1571,7 +1571,21 @@
     </url>
 
     <url>
-        <loc>https://kb.myetherwallet.com/tags/public/</loc>
+        <loc>https://kb.myetherwallet.com/tags/trade/</loc>
+        <lastmod>2020-11-17T01:55:53.897Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://kb.myetherwallet.com/tags/sell/</loc>
+        <lastmod>2020-11-17T01:55:53.897Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://kb.myetherwallet.com/tags/buy/</loc>
         <lastmod>2020-11-17T01:55:53.897Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -1627,28 +1641,14 @@
     </url>
 
     <url>
-        <loc>https://kb.myetherwallet.com/tags/trade/</loc>
-        <lastmod>2020-11-17T01:55:53.897Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://kb.myetherwallet.com/tags/sell/</loc>
-        <lastmod>2020-11-17T01:55:53.897Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://kb.myetherwallet.com/tags/buy/</loc>
-        <lastmod>2020-11-17T01:55:53.897Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://kb.myetherwallet.com/tags/transaction/</loc>
+        <lastmod>2020-11-17T01:55:53.897Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://kb.myetherwallet.com/tags/public/</loc>
         <lastmod>2020-11-17T01:55:53.897Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -1690,27 +1690,6 @@
     </url>
 
     <url>
-        <loc>https://kb.myetherwallet.com/tags/%D1%82%D1%80%D0%B5%D0%B9%D0%B4%D0%B8%D0%BD%D0%B3/</loc>
-        <lastmod>2020-11-17T01:55:53.893Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://kb.myetherwallet.com/tags/%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B0/</loc>
-        <lastmod>2020-11-17T01:55:53.893Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://kb.myetherwallet.com/tags/%D0%BF%D0%BE%D0%BA%D1%83%D0%BF%D0%BA%D0%B0/</loc>
-        <lastmod>2020-11-17T01:55:53.893Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://kb.myetherwallet.com/tags/%D0%B7%D0%B0%D0%BC%D0%B5%D0%BD%D0%B0/</loc>
         <lastmod>2020-11-17T01:55:53.893Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -1732,14 +1711,14 @@
     </url>
 
     <url>
-        <loc>https://kb.myetherwallet.com/tags/%D0%B4%D0%BE%D1%81%D1%82%D1%83%D0%BF/</loc>
+        <loc>https://kb.myetherwallet.com/tags/%D0%B2%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5/</loc>
         <lastmod>2020-11-17T01:55:53.893Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://kb.myetherwallet.com/tags/%D0%B2%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5/</loc>
+        <loc>https://kb.myetherwallet.com/tags/%D0%B4%D0%BE%D1%81%D1%82%D1%83%D0%BF/</loc>
         <lastmod>2020-11-17T01:55:53.893Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -1865,13 +1844,6 @@
     </url>
 
     <url>
-        <loc>https://kb.myetherwallet.com/tags/%D1%82%D0%BE%D0%BA%D0%B5%D0%BD%D1%8B/</loc>
-        <lastmod>2020-11-17T01:55:53.893Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://kb.myetherwallet.com/tags/%D0%B2%D0%B7%D0%B0%D0%B8%D0%BC%D0%BE%D0%B7%D0%B0%D0%BC%D0%B5%D0%BD%D1%8F%D0%B5%D0%BC%D1%8B%D0%B5/</loc>
         <lastmod>2020-11-17T01:55:53.893Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -1880,6 +1852,34 @@
 
     <url>
         <loc>https://kb.myetherwallet.com/tags/%D0%BD%D0%B5/</loc>
+        <lastmod>2020-11-17T01:55:53.893Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://kb.myetherwallet.com/tags/%D1%82%D0%BE%D0%BA%D0%B5%D0%BD%D1%8B/</loc>
+        <lastmod>2020-11-17T01:55:53.893Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://kb.myetherwallet.com/tags/%D1%82%D1%80%D0%B5%D0%B9%D0%B4%D0%B8%D0%BD%D0%B3/</loc>
+        <lastmod>2020-11-17T01:55:53.893Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://kb.myetherwallet.com/tags/%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B0/</loc>
+        <lastmod>2020-11-17T01:55:53.893Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://kb.myetherwallet.com/tags/%D0%BF%D0%BE%D0%BA%D1%83%D0%BF%D0%BA%D0%B0/</loc>
         <lastmod>2020-11-17T01:55:53.893Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -2124,7 +2124,7 @@
     </url>
 
     <url>
-        <loc>https://kb.myetherwallet.com/tags/%D1%82%D1%80%D0%B0%D0%BD%D0%B7%D0%B0%D0%BA%D1%86%D0%B8%D1%8F/</loc>
+        <loc>https://kb.myetherwallet.com/tags/%D0%BF%D0%B0%D1%80%D0%BE%D0%BB%D1%8C/</loc>
         <lastmod>2020-11-17T01:55:53.893Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -2138,14 +2138,7 @@
     </url>
 
     <url>
-        <loc>https://kb.myetherwallet.com/tags/%D0%BF%D0%B0%D1%80%D0%BE%D0%BB%D1%8C/</loc>
-        <lastmod>2020-11-17T01:55:53.893Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://kb.myetherwallet.com/tags/%D1%80%D0%B5%D0%B7%D0%B5%D1%80%D0%B2%D0%BD%D0%B0%D1%8F-%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F/</loc>
+        <loc>https://kb.myetherwallet.com/tags/%D1%82%D1%80%D0%B0%D0%BD%D0%B7%D0%B0%D0%BA%D1%86%D0%B8%D1%8F/</loc>
         <lastmod>2020-11-17T01:55:53.893Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -2153,6 +2146,13 @@
 
     <url>
         <loc>https://kb.myetherwallet.com/tags/%D0%BE%D0%B1%D0%B7%D0%BE%D1%80/</loc>
+        <lastmod>2020-11-17T01:55:53.893Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://kb.myetherwallet.com/tags/%D1%80%D0%B5%D0%B7%D0%B5%D1%80%D0%B2%D0%BD%D0%B0%D1%8F-%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F/</loc>
         <lastmod>2020-11-17T01:55:53.893Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
